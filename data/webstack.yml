@@ -72,7 +72,7 @@
           url: https://www.udacity.com/
           description: Learn the Latest Tech Skills; Advance Your Career
         - title: O*NET OnLine
-          logo: https://api.iowen.cn/favicon/www.onetonline.org/.png
+          logo: https://api.iowen.cn/favicon/www.onetonline.org.png
           url: https://www.onetonline.org/
           description: 职业信息网络
         - title: 重现化学
@@ -2487,7 +2487,7 @@
           url: http://mail.qq.com/
           description: 腾讯 QQ 邮箱。
         - title:  emailnator
-          logo: https://api.iowen.cn/favicon/www.emailnator.com/.png
+          logo: https://api.iowen.cn/favicon/www.emailnator.com.png
           url: https://www.emailnator.com/
           description: 临时谷歌邮箱，只勾选 .Gmail 选项 —— Go —— Copy 复制邮箱地址 —— Reload 刷新收件箱。
         - title: 朋友圈转发截图生成工具
@@ -2543,7 +2543,7 @@
           url: https://www.startups.fyi
           description: 收集了许多初创个人或团队的项目，可以看到他们的项目目前盈利情况，也可以提交自己的产品。
         - title: Jingle Bio
-          logo: https://api.iowen.cn/favicon/jingle.bio/.png
+          logo: https://api.iowen.cn/favicon/jingle.bio.png
           url: https://jingle.bio/
           description: 通过 Jingle Bio 打造您的个人品牌。展示链接、社交账户、收藏与成就。与你的粉丝建立联系，留下深刻的印象。
 
