@@ -2723,3 +2723,474 @@
           logo: https://api.iowen.cn/favicon/www.chongbuluo.com.png
           url: https://www.chongbuluo.com/
           description: 让搜索更简单
+
+- taxonomy: 休闲娱乐
+  icon: fas fa-photo-video
+  list:
+    - term: 影音视频
+      links:
+        - title: 哔哩哔哩
+          logo: https://api.iowen.cn/favicon/www.bilibili.com.png
+          url: https://www.bilibili.com/
+          description: Bilibili 视频弹幕网站。
+        - title: 腾讯视频
+          logo: https://api.iowen.cn/favicon/v.qq.com.png
+          url: http://v.qq.com/
+          description: 腾讯视频，海量视频在线观看。
+        - title: 优酷
+          logo: https://api.iowen.cn/favicon/www.youku.com.png
+          url: http://www.youku.com/
+          description: 优酷 - 这个世界很酷。
+        - title: 爱奇艺
+          logo: https://api.iowen.cn/favicon/www.iqiyi.com.png
+          url: https://www.iqiyi.com/
+          description: 爱奇艺在线视频。
+        - title: 公版影像典藏计划
+          logo: https://api.iowen.cn/favicon/public.163.com.png
+          url: https://public.163.com/
+          description: 这个专栏收录了361部老电影，46部纪录片，106部动画片，都可以直接在线观看。
+        - title: 纪录片部落
+          logo: https://api.iowen.cn/favicon/www.xitongle.com.png
+          url: https://www.xitongle.com/
+          description: 纪录片从业者门户
+        - title: 电影天堂（DYTT8）
+          logo: https://api.iowen.cn/favicon/www.dytt8.net.png
+          url: https://www.dytt8.net/index.htm
+          description: 电影天堂（DYTT8），高清电影下载。
+        - title: 电影天堂（DYGOD）
+          logo: https://api.iowen.cn/favicon/www.dygod.net.png
+          url: https://www.dygod.net/
+          description: 电影天堂（DYGOD），高清电影下载。
+        - title: Youtube
+          logo: https://api.iowen.cn/favicon/www.youtube.com.png
+          url: https://www.youtube.com/
+          description: 全球最大的视频搜索和分享平台。
+        - title: 亿万同人字幕组
+          logo: https://api.iowen.cn/favicon/ywtrzmz.net.png
+          url: https://ywtrzmz.net/
+          description: 亿万同人字幕组是一个集原创或搬运的同人小说和影视资源的分享交流平台。目前以 lgbtq 影视资源翻译分享为主，致力于打造一个优秀的 lgbtq 影视浏览平台，并对 Igbtq 优秀影视作品进行推广，传播 lgbtq 的历史文化与品牌意志。
+        - title: 低端影视
+          logo: https://cdn.jsdelivr.net/gh/rieleg/pics/imgs/202308071744598.x-icon
+          url: https://ddys.site/
+          description: 超清画质在线观看影视剧。
+        - title: 看片狂人
+          logo: https://cdn.jsdelivr.net/gh/rieleg/pics/imgs/202308071746661.png
+          url: https://kpkuang.gitbook.io/new/
+          description: 
+        - title: NO视频
+          logo: https://api.iowen.cn/favicon/www.novipnoad.net.png
+          url: https://www.novipnoad.net/
+          description: 不负追剧好时光 (￣▽￣)，关注微博@NO视频。
+        - title: 独播库
+          logo: https://api.iowen.cn/favicon/www.duboku.tv.png
+          url: https://www.duboku.tv/
+          description: 
+        - title: 音范丝
+          logo: https://api.iowen.cn/favicon/www.yinfans.me.png
+          url: http://www.yinfans.me/
+          description: 4K蓝光原盘下载
+        - title: 央视纪录片
+          logo: https://api.iowen.cn/favicon/www.docuchina.cn.png
+          url: http://t.cn/RJ2EY8c
+          description: 
+        - title: 中国纪录片网
+          logo: https://api.iowen.cn/favicon/www.docuchina.cn.png
+          url: http://www.docuchina.cn/
+          description: 
+        - title: 盗火纪录片
+          logo: https://api.iowen.cn/favicon/www.daofire.com.png
+          url: https://dao-fire.com/
+          description: 
+        - title: ZzzFun
+          logo: https://api.iowen.cn/favicon/www.zzzfun.one.png
+          url: http://www.zzzfun.one/
+          description: 动漫视频网 - (￣﹃￣)~zZZ
+        - title: AGE动漫
+          logo: https://cdn.jsdelivr.net/gh/rieleg/pics/imgs/202308120945086.png
+          url: https://github.com/agefanscom/website
+          description: 网址发布页
+        - title: 动漫花园
+          logo: https://api.iowen.cn/favicon/www.dongmanhuayuan.com.png
+          url: https://www.dongmanhuayuan.com/
+          description: 動漫愛好者的自由交流平台
+        - title: btnull
+          logo: https://api.iowen.cn/favicon/www.btnull.org.png
+          url: https://www.btnull.org/
+          description: 影视
+        - title: 量子影视
+          logo: https://api.iowen.cn/favicon/www.pianyuan.tv.png
+          url: http://www.pianyuan.tv/
+          description: 可下载
+        - title: 555电影
+          logo: https://cdn.jsdelivr.net/gh/rieleg/pics/imgs/202308121006426.png
+          url: https://555dyy.top/
+          description: 
+        - title: 人人影视分享站
+          logo: https://cdn.jsdelivr.net/gh/rieleg/pics/imgs/202308121202996.png
+          url: https://yyets.click/home
+          description: 本数据库永久免费    
+        - title: 新剧场
+          logo: https://api.iowen.cn/favicon/www.xinjuc.com.png
+          url: https://www.xinjuc.com/
+          description: 影视
+        - title: 茶杯狐
+          logo: https://api.iowen.cn/favicon/cupfox.app.png
+          url: https://cupfox.app/
+          description: 影视
+    - term: 音乐播客
+      links:         
+        - title: QQ 音乐
+          logo: ttps://api.iowen.cn/favicon/y.qq.com.png
+          url: https://y.qq.com/
+          description: QQ 音乐，在线听歌。
+        - title: 网易云音乐
+          logo: https://api.iowen.cn/favicon/music.163.com.png
+          url: https://music.163.com/
+          description: 163 网易云音乐。
+        - title: Dave Conservatoire
+          logo: https://api.iowen.cn/favicon/daveconservatoire.org.png
+          url: https://daveconservatoire.org/
+          description: The smart, fun, and effective way to learn music!
+        - title: 数字录音
+          logo: https://api.iowen.cn/favicon/www.ncpa-classic.com.png
+          url: https://www.ncpa-classic.com/digitalrecords/index.shtml
+          description: 古典音乐频道
+        - title: foreignrap
+          logo: https://api.iowen.cn/favicon/foreignrap.com.png
+          url: https://foreignrap.com/
+          description: 集合全世界的 rap 歌曲 mv，可以选地区和国家。
+        - title: flowkey
+          logo: https://api.iowen.cn/favicon/app.flowkey.com.png
+          url: https://app.flowkey.com.cn/
+          description: 学习弹钢琴。
+        - title: EarTrainX
+          logo: https://api.iowen.cn/favicon/www.eartrainx.com.png
+          url: https://www.eartrainx.com/
+          description: 音乐耳朵训练。
+        - title: 灯里的歌词滚动姬
+          logo: https://api.iowen.cn/favicon/lrc-maker.github.io.png
+          url: https://lrc-maker.github.io/
+          description: 在线歌词打轴
+        - title: gnoosic
+          logo: https://api.iowen.cn/favicon/www.gnoosic.com.png
+          url: https://www.gnoosic.com/faves.php
+          description: 输入3个你喜欢的音乐人，推荐给你风格类似的音乐人
+        - title: myfreemp3
+          logo: https://api.iowen.cn/favicon/tools.liumingye.cn.png
+          url: https://tools.liumingye.cn/music/#/
+          description: 在线播放下载歌曲。
+        - title: pod.link
+          logo: https://api.iowen.cn/favicon/pod.link.png
+          url: https://pod.link/
+          description: Share a podcast.
+    - term: 趣味治愈
+      links:
+        - title: 每月行动日历
+          logo: https://api.iowen.cn/favicon/actionforhappiness.org.png
+          url: https://actionforhappiness.org/all-calendars
+          description: 使用并分享我们的每月行动日历，其中包含更快乐生活的日常想法。
+        - title: 猫咪颜文字
+          logo: https://api.iowen.cn/favicon/cn.getkaomoji.com.png
+          url: https://cn.getkaomoji.com/%E1%90%A0%EA%9E%88%E1%90%9F%5C-cats-kaomoji/
+          description: 
+        - title: 捏猫
+          logo: https://api.iowen.cn/favicon/www.niemao.top.png
+          url: http://www.niemao.top/
+          description: 自由捏猫     
+        - title: conserve the sound
+          logo: https://api.iowen.cn/favicon/www.conservethesound.de.png
+          url: https://www.conservethesound.de/
+          description: 收集了近100年以来一些经典旧物的声音，比如老式固定电话的拨号声音、磁带机装卡带的声音、打字机敲键盘的声音、照相机拨交卷然后按快门的声音......应有尽有
+        - title: 这里有猫
+          logo: https://api.iowen.cn/favicon/m.niucodata.com.png
+          url: https://m.niucodata.com/cat/cat.php?from=wb
+          description: 听猫打呼噜
+        - title: Timber Festival
+          logo: https://api.iowen.cn/favicon/timberfestival.org.uk.png
+          url: https://timberfestival.org.uk/soundsoftheforest/
+          description: Sounds of the Forest
+        - title: NeuroArt Image
+          logo: https://api.iowen.cn/favicon/neuroart.com.png
+          url: https://neuroart.com/
+          description: 一个神经科学艺术网站，体会神经系统之美
+        - title: Emoji Kitchen
+          logo: https://cdn.jsdelivr.net/gh/rieleg/pics/imgs/202310311241779.png
+          url: https://emojikitchen.dev/
+          description: 快速轻松地浏览支持的表情符号混搭的完整列表，作为 Google 表情符号厨房的一部分。目前有超过 30,000 种可能的有效组合展示了独特的插图和组合表情符号！
+        - title: Explore Livecams
+          logo: https://api.iowen.cn/favicon/www.explore.org.png
+          url: https://www.explore.org/livecams
+          description: 这个动物园直播网站可以让你在线观看世界各地的动物公园直播。无需注册登录，任何人都可以免费浏览该网站。
+        - title: Florida Man
+          logo: https://api.iowen.cn/favicon/floridaman.com.png
+          url: https://floridaman.com/
+          description: 记录佛罗里达州狠人事迹，还能按生日查看。
+    - term: 小说漫画
+      links:
+        - title: 百合会论坛
+          logo: https://api.iowen.cn/favicon/bbs.yamibo.com.png
+          url: https://bbs.yamibo.com/
+          description: 主要为百合作品分享（原创、汉化、资源），百合话题（二次元、2.5次元、三次元）讨论。
+        - title: 百合会新站
+          logo: https://api.iowen.cn/favicon/bbs.yamibo.com.png
+          url: https://yamibo.com/
+          description: 百合会新站主要为各位作者发布自己的原创/同人小说和漫画，以及外国作者授权汉化的作品。
+        - title: 源仓库
+          logo: https://api.iowen.cn/favicon/yckceo.vip.png
+          url: https://yckceo.vip/
+          description: 最新地址发布页 
+        - title: 精校吧
+          logo: https://api.iowen.cn/favicon/www.jingjiaoba.com.png
+          url: (https://www.jingjiaoba.com/
+          description: 免费精校小说-校对全本TXT小说下载。
+        - title: 老男孩
+          logo: https://api.iowen.cn/favicon/www.blogzou.com.png
+          url: https://www.blogzou.com/
+          description: 精校小说-校对全本txt小说。
+        - title: 语梦校对坊
+          logo: https://api.iowen.cn/favicon/ymshu.cn.png
+          url: https://ymshu.cn/portal.php
+          description: 书苑
+        - title: 精校全本
+          logo: https://api.iowen.cn/favicon/noveless.com.png
+          url: https://noveless.com/
+          description: 
+        - title: 贼吧网
+          logo: https://cdn.jsdelivr.net/gh/rieleg/pics/imgs/202308120948848.png
+          url: https://m.zei8.vip/
+          description: txt电子书免费下载,全本精校不忽悠
+        - title: 我不是盐神
+          logo: https://api.iowen.cn/favicon/onehu.xyz.png
+          url: https://onehu.xyz/
+          description: 知乎盐选文章分享    
+        - title: AO3
+          logo: https://api.iowen.cn/favicon/archiveofourown.org.png
+          url: https://archiveofourown.org/
+          description: 一个由粉丝创作、粉丝运营、非营利、非商业性的档案，用于制作变革性的同人作品，如同人小说、同人艺术、粉丝视频和 podfic
+        - title: owlook
+          logo: https://api.iowen.cn/favicon/owlook.com.cn.png
+          url: https://owlook.com.cn/
+          description: 本站是一个开源小说搜索引擎，提供且仅提供第三方搜索引擎提供的小说检索结果。 
+        - title: AOAOSTAR
+          logo: https://api.iowen.cn/favicon/legado.aoaostar.com.png
+          url: https://legado.aoaostar.com/
+          description: 阅读APP源
+        - title: 趣书网 
+          logo: https://cdn.jsdelivr.net/gh/rieleg/pics/imgs/202308120949767.png
+          url: https://www.72ks.com/top/
+          description: 
+        - title: 百合Hub
+          logo: https://api.iowen.cn/favicon/baihehub.com.png
+          url: https://baihehub.com/
+          description: 
+        - title: HARIMANGA
+          logo: https://api.iowen.cn/favicon/harimanga.com.png
+          url: https://harimanga.com/manhwa-fast/
+          description: 英文版韩漫
+        - title: 老画报网
+          logo: https://api.iowen.cn/favicon/www.laohuabao.com.png
+          url: http://www.laohuabao.com
+          description: 连环画 漫画欣赏和交流
+    - term: 游戏竞技
+      links:
+        - title: 178
+          logo: https://api.iowen.cn/favicon/nga.178.com.png
+          url: https://nga.178.com/
+          description: 游戏论坛
+        - title: 9dm
+          logo: https://api.iowen.cn/favicon/www.9dmsgame.com.png
+          url: http://www.9dmsgame.com/
+          description: 游戏论坛
+        - title: Foddy.net
+          logo: https://api.iowen.cn/favicon/www.foddy.net.png
+          url: http://www.foddy.net/
+          description: Games by Bennett Foddy.
+        - title: GBT乐赏游戏空间
+          logo: https://api.iowen.cn/favicon/gbtgame.ysepan.com.png
+          url: http://gbtgame.ysepan.com/
+          description: 老牌游戏下载网站，目前已经收录了从2006年到目前为止的各种热门游戏。资源全部免费，提供的是种子文件，下载后直接使用迅雷等磁力工具即可下载。
+        - title: Byrutor
+          logo: https://api.iowen.cn/favicon/thebyrut.org.png
+          url: https://thebyrut.org/
+          description: 俄罗斯“学习版”游戏资源网站，资源丰富，知道自己想要的游戏的英文名，就能找到我们需要的游戏，提供的是种子资源下载的方式。
+        - title: 小叽资源
+          logo: https://api.iowen.cn/favicon/steamzg.com.png
+          url: https://steamzg.com/
+          description: 不但提供了各种类型的学习软件，而且还有游戏MOD、手机/电脑软件、美化资源等海量资源。提供了百度网盘和阿里云盘两种下载渠道。
+        - title: AntGame
+          logo: https://api.iowen.cn/favicon/www.uy5.net.png
+          url: https://www.uy5.net/antgame/
+          description: 国内大佬开发的一款游戏下载软件，可以免费下载各种热门游戏并实现一键安装。
+    - term: 成人世界
+      links: 
+        - title: KnowSex
+          logo: https://api.iowen.cn/favicon/knowsex.net.png
+          url: https://knowsex.net/
+          description: 是一个性教育网站，致力于提供直观、明了的性知识，解答群众困惑，并希望藉此减少一些社会问题的发生。镜像站点：https://xingjiaoyu.net   
+        - title: Pornhub
+          logo: https://api.iowen.cn/favicon/cn.pornhub.com.png
+          url: https://cn.pornhub.com/
+          description: 免费色情视频及性爱影片 – A片，X级，色情片分享网站
+        - title: 嗶咔漫畫 
+          logo: https://api.iowen.cn/favicon/www.picacomic.com.png
+          url: https://www.picacomic.com/
+          description: 软件下载
+        - title: 嗶咔漫畫
+          logo: https://api.iowen.cn/favicon/manhuabika.com.png
+          url: https://manhuabika.com/
+          description: 在线观看
+        - title: ClickMe
+          logo: https://api.iowen.cn/favicon/r18.clickme.net.png
+          url: https://r18.clickme.net/
+          description: R18成人站 | AV版 | 點我一下 分享無價
+        - title: 亲漫
+          logo: https://api.iowen.cn/favicon/m.qqmh.vip.png
+          url: https://m.qqmh.vip/list/
+          description: 
+        - title: Jable
+          logo: https://api.iowen.cn/favicon/jable.tv.png
+          url: https://jable.tv
+          description: 
+        - title: Xvideos
+          logo: https://api.iowen.cn/favicon/www.xvideosbrasileiro.net.png
+          url: https://www.xvideosbrasileiro.net/
+          description: 
+        - title: po18 臉紅心跳
+          logo: https://cdn.jsdelivr.net/gh/rieleg/pics/imgs/202308121045188.png
+          url: https://www.po18.tw/
+          description: 
+        - title: PO18完本
+          logo: https://cdn.jsdelivr.net/gh/rieleg/pics/imgs/202308121046692.png
+          url: https://m.po18vip.cloud/
+          description: 
+        - title: PO18完本2
+          logo: https://cdn.jsdelivr.net/gh/rieleg/pics/imgs/202308121047164.png
+          url: https://xpo18.vip/
+          description: 
+        - title: PO18看书
+          logo: https://api.iowen.cn/favicon/www.po18r.com.png
+          url: https://www.po18r.com/
+          description: 
+        - title: For Her Tube
+          logo: https://api.iowen.cn/favicon/www.forhertube.com.png
+          url: https://www.forhertube.com/zh/
+          description: 适合女性
+        - title: silk labo
+          logo: https://api.iowen.cn/favicon/www.silklabo.com.png
+          url: https://www.silklabo.com/
+          description: 女性向
+        - title: XNXX.COM
+          logo: https://api.iowen.cn/favicon/www.xnxx.com.png
+          url: https://www.xnxx.com/
+          description: 
+        - title: Bellesa
+          logo: https://api.iowen.cn/favicon/www.bellesa.co.png
+          url: https://www.bellesa.co/
+          description: Free Porn Videos for Her
+        - title: E-Hentai
+          logo: https://api.iowen.cn/favicon/e-hentai.org.png
+          url: https://e-hentai.org/
+          description: 
+        - title: EhViewer_NekoInverter
+          logo: https://api.iowen.cn/favicon/install.appcenter.ms.png
+          url: https://install.appcenter.ms/users/NekoInverter/apps/EhViewer/distribution_groups/Public
+          description: 免翻看 e 站
+        - title: 白 E
+          logo: https://api.iowen.cn/favicon/github.com.png
+          url: https://github.com/EhViewer-NekoInverter/EhViewer
+          description: 免翻看 e 站
+        - title: Ehviewer_CN_SXJ
+          logo: https://api.iowen.cn/favicon/github.com.png
+          url: https://github.com/xiaojieonly/Ehviewer_CN_SXJ
+          description: 好像是绿 E
+        - title: Faptogayporn
+          logo: https://api.iowen.cn/favicon/faptogayporn.com.png
+          url: https://faptogayporn.com/
+          description: Best Gay Porn Sites
+        - title: MyReadingManga
+          logo: https://api.iowen.cn/favicon/myreadingmanga.info.png
+          url: https://myreadingmanga.info/
+          description: Boy's Love - Yaoi, Bara Manga, Yaoi Anime, Gay Movie and Doujinshi Online
+        - title: Porn Dude
+          logo: https://api.iowen.cn/favicon/theporndude.com.png
+          url: https://theporndude.com/
+          description: Best Porn Sites & Free Porn Tubes List of 2023!
+        - title: 禁漫天堂 
+          logo: https://api.iowen.cn/favicon/18comic.vip.png
+          url: https://18comic.vip/
+          description: 免費A漫
+        - title: 茶馆
+          logo: https://api.iowen.cn/favicon/acgn.zone.png
+          url: https://acgn.zone/forum-18.htm
+          description: ACG里世界 
+        - title: Manwa
+          logo: https://manwajs2.cc/logo2.svg
+          url: https://trello.com/b/NacDoP5n/manwa%E9%98%B2%E8%B5%B0%E5%A4%B1
+          description: 漫画
+
+- taxonomy: 友情链接
+  icon: fa-link
+  friend:
+        - title: 积薪
+          url: https://firewood.news/
+          description: 致敬那些还在写博客的人
+        - title: 熊猫搜书
+          url: https://xmsoushu.com/#/
+          description: 一站式读书学习导航站_聚合电子书及科研文档搜索_学习资料检索和分享
+        - title: 易书
+          url: https://nav.yibook.org/
+          description: 综合性电子书解决方案
+        - title: 资源帝电子书导航
+          url: http://shu.ziyuandi.cn/
+          description: 在这里发现更多好书
+        - title: B-HU 资源
+          url: https://s.b-hu.org/#/
+          description: 这是一个自用的资源收集网站，由梦貘创建。
+        - title: 一流导航
+          url: http://16map.com/
+          description: 
+        - title: Simon_阿文
+          url: https://weibo.com/simonstudio2
+          description:
+        - title: 搜图导航
+          url: https://www.91sotu.com/
+          description: 一款强大且智能的设计师导航
+        - title: 1纳米学习导航
+          url: http://1nami.com/
+          description: 你和学习的距离只有1纳米~
+        - title: 学吧导航
+          url: https://www.xue8nav.com/
+          description: 四十万学习爱好者都在用的学霸导航网站
+        - title: 数字移民导航
+          url: https://shuziyimin.org/?refer=blog-pop-up
+          description: 
+        - title: Tbox导航
+          url: https://www.tboxn.com/
+          description: 只收录优质在线工具的导航网站
+        - title: 一个开始
+          url: https://aur.one/
+          description: 
+        - title: 小小 API 
+          url: https://api-m.com/
+          description: 小小孩子们 支持并维护的 API 接口项目，致力于为用户提供稳定、快速的 API 接口服务平台。
+        - title: 做视频网
+          url: https://www.zuoshipin.com/
+          description: 致力打造好用的视频创作导航 
+        - title: 混剪侠
+          url: https://www.yugaopian.cn/
+          description: 剪辑师网址导航 
+        - title: HiPPTER
+          url: http://www.hippter.com/
+          description: PPT资源导航
+        - title: BioIT爱好者
+          url: https://bioitee.com/
+          description: Bio & IT 网址导航
+        - title: 影视森林
+          url: http://www.549.tv
+          description: 观影第一站
+        - title: IPTVindex
+          url: https://iptvindex.com
+          description: 智能电视 必备
+        - title: 阿虚同学的储物间
+          url: https://axutongxue.gitee.io/
+          description: 
