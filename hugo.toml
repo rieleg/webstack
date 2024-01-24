@@ -1,6 +1,6 @@
 baseURL = "https://web.yelleis.top/"
 languageCode = "zh-CN"
-title = "Yelle🦋 网址导航"
+title = "Yelle🦋 NAV"
 theme = "hugo-webstack"
 
 #true:允许大写字母url路径，false:将url路径转换成小写
