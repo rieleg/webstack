@@ -17,7 +17,7 @@
       description: 如果您有推荐的网站，可以填写此问卷。
 
 - taxonomy: 学而不厌
-  icon: fas fa-flask fa-lg
+  icon: fa-graduation-cap
   list: 
     - term: 在线课程
       links:
