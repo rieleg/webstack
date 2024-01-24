@@ -1,18 +1,18 @@
-baseURL = "http://example.org/"
+baseURL = "https://web.yelleis.top/"
 languageCode = "zh-CN"
-title = "网址导航"
+title = "Yelle🦋 网址导航"
 theme = "hugo-webstack"
 
 #true:允许大写字母url路径，false:将url路径转换成小写
 disablePathToLower = true
 
 #页脚：作者名字
-copyright = "oulh"
+copyright = "Yelle🦋"
 
 #网站信息，不显示，仅供搜索引擎参考
 [params]
-  keywords = "网址导航,webstack,hugo"
-  description = "Webstack Hugo版主题,网址导航"
+  keywords = "网页导航,webstack,hugo"
+  description = "Yelle🦋 — 网址导航"
 
 #是否开启搜索栏，true开启，false关闭
 [params.search]
@@ -25,18 +25,18 @@ copyright = "oulh"
 #主页菜单栏显示在线编辑按钮（编辑github文件，适用于自动化部署的情况）
 [params.edit]
   # true显示按钮，false不显示
-  enable = true
-  # github文件的远程链接，改成自己的
+  enable = false
+  # 站点对应的github仓库链接
   url = "https://github.com/oulh/nav/blob/main/data/webstack.yml"
   
-#桌面端右上角code按钮
+#桌面端右上角github按钮
 [params.github]
-  enable = true #true显示 false隐藏
+  enable = false
   url = "https://github.com/oulh/nav"
   
-[permalinks]  
+  [permalinks]  
   404 = "/404.html"
-
+  
 #是否对本地搜索功能开启拼音匹配，true开启，false禁止。
 #拼音库体积337k，支持首字母匹配
 [params.pinyin]
