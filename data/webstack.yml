@@ -1153,6 +1153,10 @@
           url: https://www.adobe.com/cn/products/photoshop.html
           logo: https://api.iowen.cn/favicon/www.adobe.com.png
           description: Photoshop不需要解释
+        - title: Photopea
+          url: https://www.photopea.com/
+          logo: https://api.iowen.cn/favicon/www.photopea.com.png
+          description: 免费的在线图像编辑器，支持 PSD、XCF、Sketch、XD、CDR 等格式（Adobe Photoshop, GIMP, Sketch App,Adobe XD, CoreIDRAW)
         - title: Affinity Designer
           url: https://affinity.serif.com/
           logo: https://api.iowen.cn/favicon/affinity.serif.com.png
@@ -1531,6 +1535,14 @@
           logo: https://api.iowen.cn/favicon/webdesignclip.com.png
           url: https://webdesignclip.com/
           description: 可用作网站创建参考的日本网页设计链接
+        - title: 艺术二维码生成器
+          logo: https://api.iowen.cn/favicon/tool.mkblog.cn.png
+          url: ttp://tool.mkblog.cn/qrbtf/
+          description: 免费在线生成各种艺术二维码
+        - title: 福音戰士標題生成器
+          logo: https://api.iowen.cn/favicon/lab.magiconch.com.png
+          url: https://lab.magiconch.com/eva-title/?layout=anno-kandoku
+          description: eva
     - term: 配色工具
       links:
         - title: AI Colors
@@ -2029,6 +2041,10 @@
           logo: https://api.iowen.cn/favicon/www.pythonchallenge.com.png
           url: http://www.pythonchallenge.com/
           description: 一款游戏，其中每个级别都可以通过一点（Python）编程来解决。
+        - title: iOS 应用开发教程
+          logo: https://api.iowen.cn/favicon/cs193p.sites.stanford.edu.png
+          url: https://cs193p.sites.stanford.edu/2023
+          description: 斯坦福大学2023年学年的一个英文课程，现在已经全部上网，包含讲课视频和课件。
         - title: CodeMonkey
           logo: https://api.iowen.cn/favicon/app.codemonkey.com.png
           url: https://app.codemonkey.com/
@@ -2187,6 +2203,22 @@
           logo: https://api.iowen.cn/favicon/github.com.png
           url: https://github.com/linyuxuanlin/Auto-i18n
           description: 它使用 GitHub Actions 和 ChatGPT，将仓库里面的 Markdown 文件翻译成其他语言，适合制作网站的国际化版本。
+        - title: PortableApps
+          logo: https://api.iowen.cn/favicon/portableapps.com.png
+          url: https://portableapps.com/
+          description: 开源、免费的平台，它允许用户将常用软件以便携形式安装在USB驱动器、云驱动或本地硬盘上。该平台提供了一个便携软件的集中库，界面也简洁明了，用户可以通过它管理和更新下载的便携软件集合。该平台支持数千种免费和开源软件，覆盖了从办公和图像编辑到网络浏览和游戏等多个类别。
+        - title: Softpedia
+          logo: https://api.iowen.cn/favicon/www.softpedia.com.png
+          url: https://www.softpedia.com/
+          description: 知名的软件下载网站，提供广泛的软件下载，包括免费软件、共享软件、绿色软件、试用软件和付费软件。它专为Windows、Mac、Linux平台以及移动应用提供软件下载和评测服务。它不仅仅是一个软件库，还提供了软件资讯、技术新闻、硬件信息、以及各种技术相关的教程和文章。
+        - title: PortableFreeware
+          logo: https://api.iowen.cn/favicon/www.portablefreeware.com.png
+          url: https://www.portablefreeware.com/
+          description: 该网站汇集了成千上万款绿色便携式软件，覆盖了从办公和图形设计到系统工具和游戏等多个领域。里面的软件都无需安装，可以直接在任何移动存储设备上运行，极大的提升了软件灵活性、便捷性。
+        - title: Pendriveapps
+          logo: https://api.iowen.cn/favicon/pendriveapps.com.png
+          url: https://pendriveapps.com/
+          description: 这是一个提供大量便携式应用程序下载的网站，这些软件均可以直接在移动硬盘或者其他移动存储设备上运行，无需安装，不会在使用的电脑上留下任何个人信息或痕迹。从办公软件、系统工具到安全防护、多媒体应用，该网站中的软件种类几乎涵盖了所有你能想到的软件类别。
         - title: 晨钟网络科技
           logo: https://cdn.jsdelivr.net/gh/rieleg/pics/imgs/202308292046156.png
           url: https://jamcz.com/
@@ -2449,6 +2481,10 @@
           logo: https://api.iowen.cn/favicon/eleduck.com.png
           url: https://eleduck.com
           description: 远程工作，只工作，不上班
+        - title: 3R酷
+          logo: https://api.iowen.cn/favicon/3rku.com.png
+          url: https://3rku.com/
+          description: 爱自由，不打工
         - title: 优雅简历
           logo: https://api.iowen.cn/favicon/www.elegantresume.pro.png
           url: https://www.elegantresume.pro
@@ -2563,6 +2599,10 @@
           logo: https://api.iowen.cn/favicon/www.fang.com.png
           url: https://www.fang.com/default.htm
           description: 专业的房地产领域信息提供商
+        - title: 小爱音箱操控面板
+          logo: https://api.iowen.cn/favicon/github.com.png
+          url: https://github.com/hanxi/xiaomusic
+          description: 小爱音箱播放本地音乐的一个工具。
         - title: 1688 深度验厂
           logo: https://api.iowen.cn/favicon/shimo.im.png
           url: https://shimo.im/sheets/PQmEOEmF53giMcLR/Uzll0?dt_dapp=1
@@ -2571,7 +2611,7 @@
           logo: https://api.iowen.cn/favicon/www.wolai.com.png
           url: https://www.wolai.com/moon4869/gA2dk3D2saqEvco4ZJwVSx 
           description: 每天更新
-        - Ontario Beef: Cuts of Beef
+        - title: Cuts of Beef
           logo: https://api.iowen.cn/favicon/ontbeef.ca.png
           url: https://ontbeef.ca/buying-beef/cuts-of-beef/
           description: 查看每个牛肉部位的名字和对应的做法，里面涵盖全面，还有图解。
@@ -2925,6 +2965,10 @@
           logo: https://api.iowen.cn/favicon/floridaman.com.png
           url: https://floridaman.com/
           description: 记录佛罗里达州狠人事迹，还能按生日查看。
+        - title: Notion 风格的头像生成器
+          logo: https://api.iowen.cn/favicon/notion-avatar.vercel.app.png
+          url: https://notion-avatar.vercel.app/zh
+          description: 根据面部特点选择不同的五官、发型以及颜色的搭配生成 Notion 风格的极简头像，支持下载和分享。
     - term: 小说漫画
       links:
         - title: 百合会论坛
