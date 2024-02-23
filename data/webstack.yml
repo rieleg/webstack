@@ -244,10 +244,6 @@
           logo: https://cdn.jsdelivr.net/gh/rieleg/pics/imgs/202308121348609.png
           url: https://search.zhelper.net/
           description: 搜书下书
-        - title: zhelper
-          logo: https://cdn.jsdelivr.net/gh/rieleg/pics/imgs/202308121348609.png
-          url: https://search.zhelper.net/
-          description: 搜书下书
         - title: 1byte
           logo: https://cdn.jsdelivr.net/gh/rieleg/pics/imgs/202308121357216.png
           url: https://1byte.io/books/
@@ -1661,6 +1657,10 @@
           logo: https://api.iowen.cn/favicon/www.erase.bg.png
           url: https://www.erase.bg/
           description: 只需要两步，就能快速去除掉人物的背景，过程也是相当的快，几乎没有等待时间（看网速）
+        - title: /background-erase
+          logo: https://api.iowen.cn/favicon//background-erase.xyz.png
+          url: https://background-erase.xyz
+          description: 去除图片背景的免费网站，使用最新的删除图片背景的 AI 模型 RMBG-v1.4，所有计算都在本地完成，不用上传图片。
         - title: TwoWay AI
           logo: https://api.iowen.cn/favicon/twoway.ai.png
           url: https://twoway.ai/colourise-your-old-photos-with-ai
@@ -1973,6 +1973,10 @@
           logo: https://cdn.jsdelivr.net/gh/rieleg/pics/imgs/202308081830870.png
           url: http://alloyteam.github.io/CodeGuide/
           description: 通过分析github代码库总结出来的工程师代码书写习惯
+        - title: Quick Reference
+          logo: https://api.iowen.cn/favicon/quickref.me.png
+          url: https://quickref.me
+          description: 为开发人员分享快速参考备忘清单【速查表】
         - title: Learn to Code
           logo: https://api.iowen.cn/favicon/www.freecodecamp.org.png
           url: https://www.freecodecamp.org/
@@ -2101,6 +2105,14 @@
           logo: https://avatars.githubusercontent.com/u/359395?v=4
           url: https://github.com/justjavac/free-programming-books-zh_CN
           description: 免费的编程中文书籍索引
+        - title: ThinkPython
+          logo: https://api.iowen.cn/favicon/github.com.png
+          url: https://github.com/AllenDowney/ThinkPython/tree/v3
+          description: 是一本面向非专业人员的 Python 编程入门书籍，如今出了第三版。电子书内容完全运行在 Jupyter notebooks 中，可以直接在线阅读并运行代码。是业余爱好者入门编程的好帮手。 
+        - title: A-Philosophy-of-Software-Design
+          logo: https://api.iowen.cn/favicon/github.com.png
+          url: https://cactus-proj.github.io/A-Philosophy-of-Software-Design-zh/
+          description: 经典软件设计书《A-Philosophy-of-Software-Design》的中文翻译版电子书。
         - title: 代码随想录
           logo: https://api.iowen.cn/favicon/gitee.com.png
           url: https://gitee.com/pakchoi007/leetcode-master
@@ -2167,6 +2179,10 @@
           logo: https://api.iowen.cn/favicon/www.zaiwen.top.png
           url: https://www.zaiwen.top/
           description: 免费的在线聊天工具，旨在让用户更方便地享受科技带来的便利。各种 model 都有。
+        - title: AI 工具导航站
+          logo: https://api.iowen.cn/favicon/www.toolify.ai.png
+          url: https://www.toolify.ai/zh/
+          description: 已收录 9681 个 AI 工具和 233 个分类的 AI 工具导航站。列表通过 ChatGPT 每天自动更新。
         - title: AIGC.IT
           logo: https://api.iowen.cn/favicon/www.did.fm.png
           url: https://www.did.fm/
