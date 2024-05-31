@@ -200,6 +200,10 @@
           logo: https://api.iowen.cn/favicon/www.bookzz.ren.png
           url: https://www.bookzz.ren/
           description: zlib 翻版？
+        - title: 安娜的档案
+          logo: https://api.iowen.cn/favicon/annas-archive.org.png
+          url: https://zh.annas-archive.org/
+          description: 人类历史上最大的完全开放的图书馆。
         - title: PDF DRIVE
           logo: https://api.iowen.cn/favicon/www.pdfdrive.com.png
           url: https://www.pdfdrive.com/
@@ -276,6 +280,10 @@
           logo: https://api.iowen.cn/favicon/atimebook.com.png
           url: https://atimebook.com/
           description: 经典珍藏系列。
+        - title: AsPoem  
+          logo: https://api.iowen.cn/favicon/aspoem.com.png  
+          url: https://aspoem.com/zh-Hans  
+          description: 开源现代化中国诗词学习网站。
         - title: RSSHub
           logo: https://api.iowen.cn/favicon/docs.rsshub.app.png
           url: https://docs.rsshub.app/
@@ -384,6 +392,10 @@
           logo: https://api.iowen.cn/favicon/writtenkitten.co.png
           url: https://writtenkitten.co/
           description: 英语写作激励工具，每次写一百字显示一张猫猫图片。
+        - title: Earthworm
+          logo: https://api.iowen.cn/favicon/github.com.png
+          url: https://github.com/cuixueshe/earthworm
+          description: 一个开源的 Web 程序，通过连词造句的方式，经过不断重复练习英语，线上体验。
         - title: Conjuguemos
           logo: https://api.iowen.cn/favicon/conjuguemos.com.png
           url: http://conjuguemos.com/
@@ -577,6 +589,10 @@
           logo: https://api.iowen.cn/favicon/www.element3ds.com.png
           url: https://www.element3ds.com/
           description: 游戏资源下载,游戏原画,手机游戏资源,游戏开发资源
+        - title: Bellons
+          logo: https://api.iowen.cn/favicon/lilidesbellons.com.png
+          url: https://lilidesbellons.com/
+          description: 适合插画爱好者来配色或者灵感，同时提供线框图以及填色图。
         - title: Artgraphica
           logo: https://cdn.jsdelivr.net/gh/rieleg/pics/imgs/202308081841685.png
           url: http://www.artgraphica.net/
@@ -1011,6 +1027,10 @@
           logo: https://api.iowen.cn/favicon/www.quodb.com.png
           url: https://www.quodb.com/
           description: The movie quotes database. 根据台词搜索电影
+        - title: 字幕工具箱
+          logo: https://api.iowen.cn/favicon/zm.i8k.tv.png
+          url: https://zm.i8k.tv
+          description: 这个网站收集了一些字幕相关的工具，纯前端处理，无需安装任何插件或软件。
         - title: 字幕酱
           logo: https://api.iowen.cn/favicon/www.zimujiang.com.png
           url: https://www.zimujiang.com/
@@ -1541,6 +1561,10 @@
           description: eva
     - term: 配色工具
       links:
+        - title: Latent Box  
+          logo: https://api.iowen.cn/favicon/latentbox.com.png  
+          url: https://latentbox.com/zh
+          description: AI、创意和艺术领域的精选合集。
         - title: AI Colors
           logo: https://api.iowen.cn/favicon/aicolors.co.png
           url: https://aicolors.co/
@@ -1657,7 +1681,7 @@
           logo: https://api.iowen.cn/favicon/www.erase.bg.png
           url: https://www.erase.bg/
           description: 只需要两步，就能快速去除掉人物的背景，过程也是相当的快，几乎没有等待时间（看网速）
-        - title: /background-erase
+        - title: background-erase
           logo: https://api.iowen.cn/favicon//background-erase.xyz.png
           url: https://background-erase.xyz
           description: 去除图片背景的免费网站，使用最新的删除图片背景的 AI 模型 RMBG-v1.4，所有计算都在本地完成，不用上传图片。
@@ -1981,6 +2005,10 @@
           logo: https://api.iowen.cn/favicon/www.freecodecamp.org.png
           url: https://www.freecodecamp.org/
           description: Coding Courses for Busy People.
+        - title: CS Conversion Programme List
+          logo: https://api.iowen.cn/favicon/www.cs-conversion-list.com.png
+          url:  https://www.cs-conversion-list.com/ 
+          description: 转码的项目list，北美且对英语有自信，pm 产品经理最能结合 social 和 code 且薪资较为可观。
         - title: TypingClub
           logo: https://api.iowen.cn/favicon/www.typingclub.com.png
           url: https://www.typingclub.com/
@@ -2137,10 +2165,42 @@
           logo: https://api.iowen.cn/favicon/github.com.png
           url: https://github.com/microsoft/ML-For-Beginners
           description: 微软官方推出的机器学习入门教程。
+        - title: 学习现代 C++
+          logo: https://api.iowen.cn/favicon/learnmoderncpp.com.png
+          url: https://learnmoderncpp.com
+        - title: DesignSystemHunt
+          logo: https://api.iowen.cn/favicon/www.designsystemhunt.com.png
+          url:  https://www.designsystemhunt.com/
+          description: 这个网站收集各种设计系统（design system），已经有 130 多个。
+          description: 一个讲解 C++ 基础知识的自学教程。
+        - title: 实现主题切换从未如此简单
+          logo: https://api.iowen.cn/favicon/toggles.dev.png
+          url: https://toggles.dev/
+          description: 这是一系列很棒的、易于使用的动画切换；专为在明暗模式之间切换而设计。它是一个模块化库，旨在根据需要提供充足的定制。可直接复制代码使用适用于 CSS 框架，例如 Tailwindcss。
+        - title: css-loaders
+          logo: https://api.iowen.cn/favicon/css-loaders.com.png
+          url: https://css-loaders.com/
+          description: 加载动画，可直接复制
+        - title: CSS 网格实现出血布局
+          logo: https://api.iowen.cn/favicon/www.joshwcomeau.com.png
+          url: https://www.joshwcomeau.com/css/full-bleed/
+          description: 一篇非常好的教程，讲解使用 CSS 网格（grid）实现页面的出血布局（即图片占用边距，占满整个行宽）。
+        - title: Javascript 语法问题
+          logo: https://api.iowen.cn/favicon/github.com.png
+          url: https://github.com/lydiahallie/javascript-questions/blob/master/zh-CN/README-zh_CN.md
+          description: 这个仓库收集了100多个 JavaScript 的语法选择题，可以试试你是否真的了解这门语言。
+        - title: TypeScript 互动教程
+          logo: https://api.iowen.cn/favicon/www.learn-ts.org.png
+          url: https://www.learn-ts.org
+          description: 通过一个个小练习，讲授 TypeScript 语法。
         - title: Mac 终极配置教程
           logo: https://api.iowen.cn/favicon/44maker.github.io.png
           url: https://44maker.github.io/wiki/Mac/index.html#start
           description: Mac 配置教程文档，旨在解决大部分 Mac 问题，作者写的非常详细，是一个很不错的指南。
+        - title: AI 重要论文  
+          logo: https://api.iowen.cn/favicon/www.reddit.com.png
+          url: https://www.reddit.com/r/ArtificialInteligence/comments/1cpbh1s/ilya_sutskever_if_you_really_learn_all_of_these/ 
+          description: OpenAI 的前首席科学家 Ilya Sutskever 开出了一份论文清单，一共包含30篇论文。他说："如果你真正学会了所有这些，你就会知道当今 AI 的 90% 重要内容。"
     - term: 搜索工具
       links:
         - title: 萌娘百科
@@ -2151,6 +2211,10 @@
           logo: https://api.iowen.cn/favicon/www.wikihow.com.png
           url: https://www.wikihow.com/Main-Page
           description: How-to instructions you can trust.
+        - title: Serach for John
+          logo: https://api.iowen.cn/favicon/www.searchforjohn.com.png
+          url: https://www.searchforjohn.com/
+          description: 一个新的搜索引擎，可以聚合其他搜索引擎的结果。
         - title: Bubble
           logo: https://api.iowen.cn/favicon/github.com.png
           url: https://bubble-awesome-profile.vercel.app/
@@ -2183,6 +2247,10 @@
           logo: https://api.iowen.cn/favicon/www.toolify.ai.png
           url: https://www.toolify.ai/zh/
           description: 已收录 9681 个 AI 工具和 233 个分类的 AI 工具导航站。列表通过 ChatGPT 每天自动更新。
+        - title: DuckDuckGo AI Chat
+          logo: https://api.iowen.cn/favicon/duckduckgo.com.png
+          url: https://duckduckgo.com/?q=DuckDuckGo&ia=chat
+          description: 搜索引擎 DuckDuckGo 推出的免费 AI 聊天，底层是 GPT-3.5 Turbo 和 Claude 1.2。
         - title: AIGC.IT
           logo: https://api.iowen.cn/favicon/www.did.fm.png
           url: https://www.did.fm/
@@ -2199,6 +2267,14 @@
           logo: https://api.iowen.cn/favicon/imagine.meta.com.png
           url:  https://imagine.meta.com
           description:  Meta 公司推出的文生图工具，使用 Facebook 和 Instagram 的11亿张图片训练，现在可以免费使用。
+        - title: durable
+          logo: https://api.iowen.cn/favicon/durable.co.png
+          url: https://durable.co/
+          description: AI 建站工具，使用人工智能，为你建立一个网站。
+        - title: Copy Book 常见网站文案
+          logo: https://api.iowen.cn/favicon/copybook.me.png
+          url: https://copybook.me
+          description: 产品经理福音。如果你不知道网站上一些常用的提示语该怎么写，可以直接从这里复制。可惜网站不提供 i18n 翻译，不然可以减少很多不规范的产品文案翻译。
         - title: 好好说话
           logo: https://api.iowen.cn/favicon/lab.magiconch.com.png
           url: https://lab.magiconch.com/nbnhhsh/
@@ -2235,6 +2311,10 @@
           logo: https://api.iowen.cn/favicon/pendriveapps.com.png
           url: https://pendriveapps.com/
           description: 这是一个提供大量便携式应用程序下载的网站，这些软件均可以直接在移动硬盘或者其他移动存储设备上运行，无需安装，不会在使用的电脑上留下任何个人信息或痕迹。从办公软件、系统工具到安全防护、多媒体应用，该网站中的软件种类几乎涵盖了所有你能想到的软件类别。
+        - title: Appstorrent
+          logo: https://api.iowen.cn/favicon/appstorrent.ru.png
+          url: https://appstorrent.ru/
+          description: 俄罗斯破解 mac 软件网站，都是最新的，不花钱。
         - title: 晨钟网络科技
           logo: https://cdn.jsdelivr.net/gh/rieleg/pics/imgs/202308292046156.png
           url: https://jamcz.com/
@@ -2282,7 +2362,7 @@
         - title: 软仓
           logo: https://api.iowen.cn/favicon/www.ruancang.net.png
           url: https://www.ruancang.net/#/
-          description: 
+          description: 电脑软件下载。
         - title: 0DayDown
           logo: https://api.iowen.cn/favicon/www.0daydown.com.png
           url: https://www.0daydown.com/
@@ -2351,6 +2431,14 @@
           logo: https://api.iowen.cn/favicon/cantunsee.space.png
           url: https://cantunsee.space/
           description: UI 对比游戏
+        - title: Mobbin
+          logo: https://api.iowen.cn/favicon/mobbin.com.png
+          url: https://mobbin.com/browse/ios/apps
+          description: 全球最大的移动和网页设计库，使用我们的库节省数小时的UI和UX研究 300,000+ 屏幕，来自世界上设计最好的应用程序。
+        - title: Responsive Viewer
+          logo: https://api.iowen.cn/favicon/responsiveviewer.org.png
+          url: https://responsiveviewer.org/
+          description: 输入链接，添加需要的设备就可以同一屏幕内看到多设备的适配情况，并且每个设备中支持滚动预览以及跳转等操作，方便随时查看网站的适配情况。
         - title: Airportal
           logo: https://api.iowen.cn/favicon/airportal.cn.png
           url: https://airportal.cn/
@@ -2611,6 +2699,10 @@
           logo: https://api.iowen.cn/favicon/www.goodhousekeeping.com.png
           url: https://www.goodhousekeeping.com/home/cleaning/a37462/how-often-you-should-clean-everything/
           description: 适合您的日、周、月和年的终极清洁计划。我们的专家揭示了您需要多久清洁一次所有东西的真相。
+        - title: 城市租房生存指南
+          logo: https://api.iowen.cn/favicon/zufang.ababtools.com.png
+          url: https://zufang.ababtools.com/
+          description: 租房小白修炼手册，掌握租房硬核知识，找到理想住所！
         - title: 全国房地产门户
           logo: https://api.iowen.cn/favicon/www.fang.com.png
           url: https://www.fang.com/default.htm
@@ -2647,6 +2739,10 @@
           logo: https://api.iowen.cn/favicon/www.gapminder.org.png
           url: https://www.gapminder.org/dollar-street
           description: photos as data to kill country stereotypes，全球生活水平
+        - title: IDPhoto4You
+          logo: https://api.iowen.cn/favicon/www.idphoto4you.com.png
+          url: https://www.idphoto4you.com/
+          description: 护照照片小工具。无需注册，无收费。上传照片他会按照你选的国家和用途给出裁切指示，最后输出照片拿去用就行了。
         - title: 高德地图
           logo: https://api.iowen.cn/favicon/trp.autonavi.com.png
           url: https://trp.autonavi.com/
