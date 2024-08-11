@@ -1019,6 +1019,14 @@
           logo: https://api.iowen.cn/favicon/www.2amok.net.png
           url: https://www.2amok.net/
           description: 视频剪辑素材,AE模板,AE教程_免费下载网站
+        - title: Video file compressor
+          logo: https://api.iowen.cn/favicon/tools.rotato.app.png
+          url: https://tools.rotato.app/compress/
+          description: 基于 FFMpeg 的 H264 压缩标准，实现压缩 90% 的视频大小。
+        - title: cobalt
+          logo: https://api.iowen.cn/favicon/cobalt.tools.png
+          url: https://cobalt.tools/
+          description: Cobalt 是从社交媒体和媒体平台下载的首选之地。零广告、跟踪器或其他令人毛骨悚然的废话。只需粘贴一个分享链接，你就可以开始摇滚了！
         - title: DownSub
           logo: https://api.iowen.cn/favicon/downsub.com.png
           url: https://downsub.com/
@@ -1527,6 +1535,10 @@
           logo: https://api.iowen.cn/favicon/www.51yuansu.com.png
           url: https://www.51yuansu.com/
           description: 免费PNG素材_高清背景图片免费下载网站
+        - title: WallHere 壁纸库
+          logo: https://api.iowen.cn/favicon/wallhere.com.png
+          url: https://wallhere.com/zh/
+          description: 世界著名的壁纸网站 电脑桌面壁纸。
         - title: Design Hunt
           logo: https://api.iowen.cn/favicon/designhunt.us.png
           url: https://designhunt.us/
@@ -1697,6 +1709,10 @@
           logo: https://api.iowen.cn/favicon/background-erase.xyz.png  
           url: https://background-erase.xyz/ 
           description: 以卓越的 RMBG V1.4 模型为中心，这是一种最先进的 AI算法，旨在快速有效地从您的照片中删除背景。
+        - title: removerized
+          logo: https://api.iowen.cn/favicon/github.com.png
+          url: https://github.com/yossTheDev/removerized
+          description: 开源的用 AI 去除图像背景！🤖 💡免费且无限制：没有隐藏的费用或使用限制！ 🔌离线支持：不需要互联网连接！
         - title: Erase.bg
           logo: https://api.iowen.cn/favicon/www.erase.bg.png
           url: https://www.erase.bg/
@@ -1999,6 +2015,10 @@
           logo: https://api.iowen.cn/favicon/github.com.png  
           url: https://github.com/codecrafters-io/build-your-own-x  
           description: 这是一个集合了各种技术主题的开源学习资源库，旨在引导开发者通过实践来掌握核心概念。
+        - title: Vue.js Examples
+          logo: https://api.iowen.cn/favicon/vuejsexamples.com.png
+          url: https://vuejsexamples.com/
+          description: Vue 综合示例网站
         - title: CSDN
           logo: https://api.iowen.cn/favicon/www.csdn.net.png
           url: https://www.csdn.net/
@@ -2097,6 +2117,30 @@
           logo: https://api.iowen.cn/favicon/leetcode.cn.png
           url: https://leetcode.cn/
           description: 全球极客挚爱的技术成长平台
+        - title: LintCode 炼码
+          logo: https://www.favicon.vip/get.php?url=www.lintcode.com
+          url: https://www.lintcode.com/
+          description: 在线实操提升技能，专业刷题评测，高效进阶学习体验！
+        - title: Codecademy
+          logo: https://api.iowen.cn/favicon/www.codecademy.com.png
+          url: https://www.codecademy.com/
+          description: 免费学习编程
+        - title: BeginnersBook
+          logo: https://api.iowen.cn/favicon/beginnersbook.com.png
+          url: https://beginnersbook.com/
+          description: 编程语言初学者教程。任何事情的专家都曾经是初学者 —— 海伦·海耶斯
+        - title: codegym
+          logo: https://api.iowen.cn/favicon/codegym.cc.png
+          url: https://codegym.cc/
+          description: 在线学习 Java
+        - title: cppreference
+          logo: https://api.iowen.cn/favicon/zh.cppreference.com.png
+          url: https://zh.cppreference.com/
+          description: 我们力图为程序员提供一个全面的 C 和 C++ 语言及其标准库的在线参考资料，亦即 C 和 C++ 标准的一份更加方便实用的版本。这份参考注重对 C 和 C++ 规范 的描述。因此，一些（对有经验的程序员来说）很明显的事实将会被忽略，或者至少不会在函数、常数和类的主体描述中出现。通常会在各个页面的的“示例”部分中展示各种使用方式。原理说明、特定实现的注解、针对特定平台的文档则会写在每页的“注解”部分。
+        - title: C语言网
+          logo: https://api.iowen.cn/favicon/www.dotcpp.com.png
+          url: https://www.dotcpp.com/
+          description: 编程入门学习-训练题库-实用的编程学练平台
         - title: 菜鸟教程
           logo: https://api.iowen.cn/favicon/www.runoob.com.png
           url: https://www.runoob.com/
@@ -2105,6 +2149,10 @@
           logo: https://api.iowen.cn/favicon/www.w3cschool.cn.png
           url: https://www.w3cschool.cn/
           description: 1000 多本编程教程免费学
+        - title: 通往 AGI 之路
+          logo: https://api.iowen.cn/favicon/waytoagi.feishu.cn.png
+          url: https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e
+          description: 欢迎来到《通往 AGI 之路》知识库!这里旨在提供一个全面系统的 AI 学习路径，帮助您了解从 AI 常见名词到 AI 应用等各方面知识，更重要的是希望引发您思考：「我可以用 AI 做什么，帮助自己更强大」。
         - title: 九章算法
           logo: https://api.iowen.cn/favicon/www.jiuzhang.com.png
           url: https://www.jiuzhang.com/
@@ -2164,7 +2212,11 @@
         - title: 打字修炼场 
           logo: https://api.iowen.cn/favicon/www.biancheng.love.png
           url: https://www.biancheng.love/typinghome
-          description: 
+          description: 练习打字。
+        - title: 纸砚
+          logo: https://api.iowen.cn/favicon/ninglo.github.io.png
+          url: https://ninglo.github.io/shuangpin/
+          description: 最好用的双拼练习工具。
         - title: Python
           logo: https://api.iowen.cn/favicon/www.python.org.png
           url: https://www.python.org/
@@ -2241,10 +2293,18 @@
           logo: https://api.iowen.cn/favicon/.png  
           url: https://openalternative.co/
           description: 发现流行软件的开源替代品，社区驱动的专有软件和应用程序的开源替代品列表，可替代日常使用中所需的软件。
+        - title: AlternativeTo
+          logo: https://api.iowen.cn/favicon/alternativeto.net.png
+          url: https://alternativeto.net/
+          description: AlternativeTo 是一个众包的免费网站，可帮助您找到更好的应用程序和服务。注册并帮助他人找到出色的应用程序！
         - title: 实现主题切换从未如此简单
           logo: https://api.iowen.cn/favicon/toggles.dev.png
           url: https://toggles.dev/
           description: 这是一系列很棒的、易于使用的动画切换；专为在明暗模式之间切换而设计。它是一个模块化库，旨在根据需要提供充足的定制。可直接复制代码使用适用于 CSS 框架，例如 Tailwindcss。
+        - title: Preline UI
+          logo: https://api.iowen.cn/favicon/preline.co.png
+          url: https://preline.co/
+          description: 开源 Tailwind CSS 组件库。基于实用优先的 Tailwind CSS 框架。它提供了大量现成的组件、模板和插件，可以轻松集成到您的 Web 开发项目中。
         - title: css-loaders
           logo: https://api.iowen.cn/favicon/css-loaders.com.png
           url: https://css-loaders.com/
@@ -2339,10 +2399,22 @@
           logo: https://api.iowen.cn/favicon/www.toolify.ai.png
           url: https://www.toolify.ai/zh/
           description: 已收录 9681 个 AI 工具和 233 个分类的 AI 工具导航站。列表通过 ChatGPT 每天自动更新。
+        - title: Explore top 41 SEO AI Tools
+          logo: https://api.iowen.cn/favicon/seoai.tools.png
+          url: https://seoai.tools/
+          description: 作者 @alexanderisorax 使用 Unicorn Platform 快速制作的一个导航站。
         - title: DuckDuckGo AI Chat
           logo: https://api.iowen.cn/favicon/duckduckgo.com.png
           url: https://duckduckgo.com/?q=DuckDuckGo&ia=chat
           description: 搜索引擎 DuckDuckGo 推出的免费 AI 聊天，底层是 GPT-3.5 Turbo 和 Claude 1.2。
+        - title: WebCurate
+          logo: https://api.iowen.cn/favicon/webcurate.co.png
+          url: https://webcurate.co/
+          description: 一家每日更新最佳工具和产品，并带有详细的描述和功能的站点。其内容涵盖了 AI、无代码、插画、视频、生产力等类别。
+        - title: MazikBox
+          logo: https://api.iowen.cn/favicon/mazikbox.com.png
+          url: https://mazikbox.com/
+          description: 以新颖的导航列表为用户提供丰富的工具合集，涵盖了自动化、3D、AI、设计、无代码、营销等类别。
         - title: AIGC.IT
           logo: https://api.iowen.cn/favicon/www.did.fm.png
           url: https://www.did.fm/
@@ -2540,6 +2612,10 @@
           logo: https://api.iowen.cn/favicon/mobbin.com.png
           url: https://mobbin.com/browse/ios/apps
           description: 全球最大的移动和网页设计库，使用我们的库节省数小时的UI和UX研究 300,000+ 屏幕，来自世界上设计最好的应用程序。
+        - title: Nicelydone
+          logo: https://api.iowen.cn/favicon/nicelydone.club.png
+          url: https://nicelydone.club/
+          description: 在几秒钟内从真实的应用程序中找到设计灵感。浏览最大的 Web 应用程序设计灵感库，其中包含来自实时应用程序的屏幕、用户流程和 UI 组件示例。
         - title: calltoinspiration   
           logo: https://api.iowen.cn/favicon/calltoinspiration.com.png  
           url: https://calltoinspiration.com/
@@ -2572,6 +2648,10 @@
           logo: https://api.iowen.cn/favicon/github.com.png
           url: https://github.com/timqian/chinese-independent-blogs
           description: 
+        - title: Best Blogging Platforms & Sites
+          logo: https://api.iowen.cn/favicon/bloggingplatforms.app.png
+          url: https://bloggingplatforms.app/
+          description: 发现最好的博客平台和网站，这个列表提供了对各种博客平台的深入评论和比较，方便你选择适合自己的博客平台。
         - title: ooh.directory  
           logo: https://api.iowen.cn/favicon/ooh.directory.png  
           url: https://ooh.directory  
@@ -2630,6 +2710,10 @@
           logo: https://api.iowen.cn/favicon/greasyfork.org.png
           url: https://greasyfork.org/zh-CN
           description: 安全、实用的用户脚本大全
+        - title: Crx 搜搜
+          logo: https://api.iowen.cn/favicon/www.crxsoso.com.png
+          url: https://www.crxsoso.com/
+          description: 一个牛X的扩展和应用商店，输入关键字或链接可搜索扩展/应用
         - title: Via浏览器进阶指南
           logo: https://cdn.jsdelivr.net/gh/rieleg/pics/imgs/202308121048847.png
           url: https://relic-periwinkle-f86.notion.site/Via-4067d205fb4d46bbb33bc433370cd938
@@ -2710,6 +2794,14 @@
           logo: https://api.iowen.cn/favicon/3rku.com.png
           url: https://3rku.com/
           description: 爱自由，不打工
+        - title: Remote Nomad Jobs
+          logo: https://api.iowen.cn/favicon/www.remotenomadjobs.com.png
+          url: https://www.remotenomadjobs.com/
+          description: 一个专门为数字游民设计的工作平台，汇集了全球各地的 100% 远程工作机会，涵盖软件开发、设计、营销、数据分析等多个领域。平台分类清晰，方便你按需求筛选合适的职位。对于喜欢旅行、寻求灵活工作安排的数字游民来说，这是一个理想的工作资源库，帮助他们在世界任何地方工作。
+        - title: LikeRemote
+          logo: https://api.iowen.cn/favicon/likeremote.com.png
+          url: https://likeremote.com/
+          description: 拥有 12 万多个远程工作职位的大型数据库，专注于顶级公司发布的远程职位，覆盖多个行业领域。用户可以根据技能、地点和薪资范围轻松筛选适合的工作，适合寻求灵活工作环境的专业人士。平台设计简洁，操作便捷，是那些希望在全球范围内寻找远程工作的理想选择。
         - title: 优雅简历
           logo: https://api.iowen.cn/favicon/www.elegantresume.pro.png
           url: https://www.elegantresume.pro
@@ -2745,11 +2837,19 @@
         - title: 博思白板
           logo: https://api.iowen.cn/favicon/boardmix.cn.png
           url: https://boardmix.cn/
-          description: 一个点燃团队协作和激发创意的空间，集AIGC，一键PPT，思维导图，笔记文档多种创意表达能力于一体，将团队工作效率提升到新的层次。
+          description: 一个点燃团队协作和激发创意的空间，集 AIGC，一键PPT，思维导图，笔记文档多种创意表达能力于一体，将团队工作效率提升到新的层次。
         - title: 笔灵AI PPT 专区
           logo: https://api.iowen.cn/favicon/ibiling.cn.png
           url: https://ibiling.cn/ppt-zone
           description: 除了 PPT 生成，还自动附赠一份与 PPT 对应的 word 自述稿。
+        - title: 在线工具大全
+          logo: https://api.iowen.cn/favicon/www.lddgo.net.png
+          url: https://www.lddgo.net/index/
+          description: 351 个在线工具软件，22513392 次使用。文库、字符、转换、加密、网络、图表、数学、坐标、图片、文件。
+        - title: 工具邦
+          logo: https://api.iowen.cn/favicon/cn.piliapp.com.png
+          url: https://cn.piliapp.com/
+          description: 一个有趣好用的工具站，里面包含了各种有趣的项目。
         - title: PDF24 Tools
           logo: https://api.iowen.cn/favicon/tools.pdf24.org.png
           url: https://tools.pdf24.org/zh/
@@ -3156,6 +3256,10 @@
           logo: https://api.iowen.cn/favicon/music.163.com.png
           url: https://music.163.com/
           description: 163 网易云音乐。
+        - title: 问问小宇宙
+          logo: https://api.iowen.cn/favicon/xiaoyuzhoufm.com.png
+          url: https://ask.xiaoyuzhoufm.com/
+          description: 关键词查找相关播客。        
         - title: Dave Conservatoire
           logo: https://api.iowen.cn/favicon/daveconservatoire.org.png
           url: https://daveconservatoire.org/
@@ -3198,6 +3302,14 @@
           logo: https://api.iowen.cn/favicon/actionforhappiness.org.png
           url: https://actionforhappiness.org/all-calendars
           description: 使用并分享我们的每月行动日历，其中包含更快乐生活的日常想法。
+        - title: mrgory.info
+          logo: https://api.iowen.cn/favicon/mrgory.info.png
+          url: https://mrgory.info/
+          description: 濒危声音博物馆，一个诞生于 2012 年的网站，为了保存开发者 Brendan Chilcutt 自己喜欢的旧技术和电子设备声音。目前收集了不少经典音效，比如早期 Windows 95 开机音、诺基亚经典开机音、俄罗斯方块游戏音效、软盘读写声音、真打字机的打字声音等，使用 CC BY-NC-SA 3.0 授权。
+        - title: Background Noises
+          logo: https://api.iowen.cn/favicon/mynoise.net.png
+          url: https://mynoise.net/
+          description: 白噪音网站，内容非常丰富，也可以下载 Android 客户端。
         - title: Coding kitty  
           logo: https://api.iowen.cn/favicon/hostrider.com.png  
           url: https://hostrider.com/   
