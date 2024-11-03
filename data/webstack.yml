@@ -15,7 +15,7 @@
       logo: https://api.iowen.cn/favicon/wj.qq.com.png
       url: https://wj.qq.com/s2/12889327/82df/
       description: 如果您有推荐的网站，可以填写此问卷。
-    - title: 2024-08-26
+    - title: 2024-11-03
       logo: https://cdn-icons-png.flaticon.com/512/5278/5278646.png
       url: https://webs.yelleis.top/
       description: 更新日期
@@ -255,7 +255,11 @@
         - title: 高教书苑
           logo: https://api.iowen.cn/favicon/ebook.hep.com.cn.png  
           url: https://ebook.hep.com.cn/ 
-          description: 高等教育出版社的在线网站，教材涵盖高等教育、高职、中职等阶段，涉及文科理科工科美术等超多门类的专业，并且大部分都能在线免费看，拿来学科入门绰绰有余了。 
+          description: 高等教育出版社的在线网站，教材涵盖高等教育、高职、中职等阶段，涉及文科理科工科美术等超多门类的专业，并且大部分都能在线免费看，拿来学科入门绰绰有余了。
+        - title: 開讀
+          logo: https://api.iowen.cn/favicon/openbookshongkong.com.png
+          url: https://openbookshongkong.com/book/
+          description: 開讀（Open Books Hong Kong）先導計劃由香港中文大學、香港城市大學和香港大學三間高等教育院校的圖書館與出版社聯合發起。這是香港首個開放取用（open access）圖書計劃，旨在開放學術成果、創建健康公平的知識傳播生態。
         - title: 下一本读什么
           logo: https://api.iowen.cn/favicon/xiayibendushenme.com.png
           url: https://xiayibendushenme.com/
@@ -388,6 +392,10 @@
           logo: https://api.iowen.cn/favicon/tophonetics.com.png
           url: https://tophonetics.com/
           description: 英语音标转换
+        - title: Langpractice
+          logo: https://api.iowen.cn/favicon/langpractice.com.png
+          url: https://langpractice.com/
+          description: Langpractice 是一个平台，旨在帮助您练习不同语言的技能，例如识别数字。
         - title: YARN
           logo: https://api.iowen.cn/favicon/getyarn.io.png
           url: https://getyarn.io/
@@ -1345,6 +1353,10 @@
           logo: https://api.iowen.cn/favicon/logos-world.net.png
           url: https://logos-world.net/
           description: 网站展示了世界上最著名的品牌和公司 Logo，包括它们的历史和意义。用户可以找到各种知名公司的 PNG 格式 的 Logo，以及相关的图标和 Logo 设计的背景信息。这些内容可以帮助人们更好地理解各大品牌在全球市场中的定位和形象，增加品牌识别度。
+        - title: HQ ICON
+          logo: https://api.iowen.cn/favicon/icon.yukonga.top.png
+          url: https://icon.yukonga.top/
+          description: 从 App Store 获取高清应用图标。
         - title: SVGLOGO
           logo: https://api.iowen.cn/favicon/www.svglogo.top.png
           url: https://www.svglogo.top
@@ -2237,6 +2249,14 @@
           logo: https://api.iowen.cn/favicon/www.patterns.dev.png
           url: https://www.patterns.dev/
           description: 免费的在线资源，介绍了使用普通 JavaScript 或现代框架构建功能强大的 Web 应用程序的设计、渲染和性能模式。
+        - title: JavaScript Guidebook
+          logo: https://api.iowen.cn/favicon/tsejx.github.io.png
+          url: https://tsejx.github.io/javascript-guidebook/
+          description: 提供了一个全面的 JavaScript 知识体系，包括基础语法、内置对象、核心模块、面向对象编程、浏览器对象模型（BOM）、文档对象模型（DOM）、计算机网络、设计模式等内容，旨在帮助开发者系统化学习并在日常开发中查阅具体技术细节。
+        - title: 十分钟物理
+          logo: https://api.iowen.cn/favicon/github.io.png
+          url: https://matthias-research.github.io/pages/tenMinutePhysics/index.html
+          description: 教你用 JavaScript 模拟物理现象，如火焰、弹球碰撞、欧拉流体等很多内容。每则教程配有详细的笔记、代码、demo和教学视频。 
         - title: JavaScript 框架语法特性对比
           logo: https://api.iowen.cn/favicon/component-party.lainbo.com.png
           url: https://component-party.lainbo.com/
@@ -2257,6 +2277,10 @@
           logo: https://api.iowen.cn/favicon/ramen.tools.png
           url: https://ramen.tools/
           description: 一个平台，汇集了超过 1600 名独立创客的技术工具和使用案例，帮助用户了解流行的工具组合。通过分享和探索其他创客的技术栈，用户可以获得灵感，提升自己的创业项目效率。同时，该平台还提供了个性化仪表盘功能，便于用户记录和分享自己的工具使用情况。
+        - title: Liusha
+          logo: https://api.iowen.cn/favicon/liusha.org.png
+          url: https://liusha.org/
+          description: 在几秒钟内发现网站技术栈。Liusha 使企业能够识别、分析和利用 Web 上的技术栈。获得洞察，产生潜在客户，并在竞争中保持领先地位。
         - title: MUUUUU.ORG
           logo: https://api.iowen.cn/favicon/muuuuu.org.png
           url: https://muuuuu.org/
@@ -2325,6 +2349,10 @@
           logo: https://api.iowen.cn/favicon/beej.us.png
           url: https://beej.us/guide/bgc/
           description: 面向初学者的 C 语言教程。
+        - title: Emulator 101
+          logo: https://api.iowen.cn/favicon/www.emulator101.com.png
+          url: http://www.emulator101.com/
+          description: 该教程以 C 语言为基础，适合想要深入了解 CPU 工作原理的学习者。教程指导读者一步步编写一个模拟 Space Invaders 游戏的 8080 CPU 仿真器，通过实际操作帮助理解 CPU 的工作原理和汇编语言。除了基础的编程知识，还涵盖了二进制和十六进制的介绍、CPU 的快速入门、逻辑操作、汇编语言、堆栈等内容。此外，还提供了针对不同平台（如 Mac OS X、iOS）的模拟器移植指南。
         - title: 菜鸟教程
           logo: https://api.iowen.cn/favicon/www.runoob.com.png
           url: https://www.runoob.com/
@@ -2497,6 +2525,10 @@
           logo: https://api.iowen.cn/favicon/www.framer.com.png
           url: https://www.framer.com/motion/
           description: Framer Motion 动画库的完整文档。React 的生产就绪运动库。
+        - title: Learn Next.js 中文教程
+          logo: https://api.iowen.cn/favicon/qufei1993.github.io.png
+          url: https://qufei1993.github.io/nextjs-learn-cn/
+          description: Next.js v14 版本发布时，除了正常的版本更新之外，还发布了一个基于 App Router 架构的免费学习教程，通过构建全栈 Web 应用程序，可以让您更好的了解 Next.js 的主要功能。本系列是基于官方教程 https://nextjs.org/learn 的一个中文翻译版本。
         - title: OpenAlternative 
           logo: https://api.iowen.cn/favicon/.png  
           url: https://openalternative.co/
@@ -2587,6 +2619,10 @@
           logo: https://api.iowen.cn/favicon/www.searchforjohn.com.png
           url: https://www.searchforjohn.com/
           description: 一个新的搜索引擎，可以聚合其他搜索引擎的结果。
+        - title: Geekits
+          logo: https://api.iowen.cn/favicon/geekits.ygeeker.com.png
+          url: https://geekits.ygeeker.com/
+          description: 欢迎使用 Geekits，这是一个功能强大的小工具集合。它是完全开源的、免费的，具有简单的界面和易于使用的功能。我们的目标是帮助您解决生活中简单但乏味的问题。有时，使用程序比使用 AI 更快、更方便。
         - title: IT Tools
           logo: https://api.iowen.cn/favicon/it-tools.tech.png
           url: https://it-tools.tech/
@@ -2614,7 +2650,11 @@
         - title: Prompt 广场
           logo: https://api.iowen.cn/favicon/agicto.com.png
           url: https://agicto.com/prompt
-          description: 通过 AGICTO，开发者可以轻松访问和调试海量模型，利用模型广场和 Prompt 工程快速调试模型质量，集成知识库、智能体等应用组件，借助 RAG 增强技术快速构建支持多模态交互的 AI 应用，进一步加速 AI 应用的落地。
+          description: 通过 AGICTO，开发者可以轻松访问和调试海量模型，利用模型广场和 Prompt 工程快速调试模型质量，集成知识库、智能体等应用组件，借助 RAG 增强技术快速构建支持多模态交互的 AI 应用，进一步加速 AI 
+        - title: Catjourney
+          logo: https://api.iowen.cn/favicon/catjourney.life.png
+          url: https://catjourney.life/
+          description: Catjourney 可以帮助您快速生成美观、实用且可重用的 AI 图像。您可以复制提示以在您最喜欢的图像生成工具中生成图像，无论是 Midjourney、Firefly 还是 DALL-E。每周都会发布各种类型的新提示和图像。
         - title: GPT4o.so  
           logo: https://api.iowen.cn/favicon/gpt4o.so.png  
           url: https://gpt4o.so/zh-CN  
@@ -2807,6 +2847,10 @@
           logo: https://api.iowen.cn/favicon/www.lan-sha.com.png
           url: https://www.lan-sha.com/
           description: 让您在互联网的海洋里自由的遨游！
+        - title: Discourse Discover
+          logo: https://api.iowen.cn/favicon/discover.discourse.org.png
+          url: https://discover.discourse.org/
+          description: Discourse 是为互联网的下一个十年构建的 100% 开源讨论平台。我们让您随时随地轻松进行有意义的对话和协作。
         - title: 东海手机维修论坛
           logo: https://api.iowen.cn/favicon/bbs.eastsea.com.cn.png
           url: http://bbs.eastsea.com.cn/forum.php
@@ -2988,6 +3032,10 @@
           logo: https://api.iowen.cn/favicon/pagespeed.web.dev.png
           url: https://pagespeed.web.dev/
           description: 使用 PageSpeed 工具分析和优化您的网站。
+        - title: 炸了么
+          logo: https://api.iowen.cn/favicon/zhale.me.png
+          url: https://zhale.me/
+          description: 这是一款为运维人员和站长设计的在线网络测试工具，拥有超过 1000 个全球节点。它可以模拟用户访问特定的域名或 IP 地址，免费提供网站速度测试、网络速度检测、多地区在线 ping 测试、DNS 查询、路由跟踪以及 IPv6 网站测试等多种站长工具。
         - title: nxtlnk
           logo: https://api.iowen.cn/favicon/nxtlnk.xyz.png
           url: https://nxtlnk.xyz/
@@ -3178,6 +3226,10 @@
           logo: https://api.iowen.cn/favicon/web3.career.png
           url: https://web3.career/
           description: 在 7,305 个项目中浏览 web3 中的 49,004 个区块链工作。按薪水、地点和技能筛选最佳远程加密工作。
+        - title: iWHVer
+          logo: https://api.iowen.cn/favicon/www.iwhver.com.png
+          url: https://www.iwhver.com/
+          description: 打工度假攻略， 打工度假资讯的平台。
         - title: 优雅简历
           logo: https://api.iowen.cn/favicon/www.elegantresume.pro.png
           url: https://www.elegantresume.pro
@@ -3396,6 +3448,10 @@
           logo: https://api.iowen.cn/favicon/github.com.png
           url: https://github.com/Flomp/wanderer
           description: 一个自托管的轨迹数据库。您可以上传您记录的轨迹或创建新轨迹，并添加各种元数据以构建易于搜索的目录。
+        - title: 中国科普博览
+          logo: https://api.iowen.cn/favicon/www.kepu.com.cn.png
+          url: http://www.kepu.com.cn/
+          description: 中国科学院权威出品、专业打造的互联网科普云矩阵，传播高品质、有深度、可信任的科普内容，组织新鲜、有趣、好玩的科普教育活动，形成中国科普博览、格致论道、科学大院、科院少年等优质科普品牌。
         - title: 科学松鼠会
           logo: https://api.iowen.cn/favicon/www.kexuesongshuhui.com.png
           url: https://www.kexuesongshuhui.com/
@@ -3412,6 +3468,10 @@
           logo: https://api.iowen.cn/favicon/inforun.info.png
           url: https://inforun.info/
           description: 基本不涉及 Why，注重 What 和 How。
+        - title: Jack Liu博客
+          logo: https://api.iowen.cn/favicon/www.jack-liu.com.png
+          url: https://www.jack-liu.com/
+          description: 一个专注于研究新西兰技术移民的原创博客，是一个值得SMC申请人收藏的移民博客。关注技术移民政策动向，探讨华人移民热点问题。
         - title: Aspie Quiz
           logo: https://api.iowen.cn/favicon/www.rdos.net.png
           url: http://www.rdos.net/china/
