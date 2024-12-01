@@ -15,7 +15,7 @@
       logo: https://api.iowen.cn/favicon/wj.qq.com.png
       url: https://wj.qq.com/s2/12889327/82df/
       description: 如果您有推荐的网站，可以填写此问卷。
-    - title: 2024-11-17
+    - title: 2024-12-01
       logo: https://cdn-icons-png.flaticon.com/512/5278/5278646.png
       url: https://webs.yelleis.top/
       description: 更新日期
@@ -32,7 +32,15 @@
         - title: 北京大学
           logo: https://api.iowen.cn/favicon/resource.pku.edu.cn.png
           url: https://resource.pku.edu.cn/
-          description: 媒体资源服务平台
+          description: 媒体资源服务平台。
+        - title: 格拉斯哥大学课程大纲
+          logo: https://api.iowen.cn/favicon/glasgow.rl.talis.com.png
+          url: https://glasgow.rl.talis.com/index.html
+          description: 可以自由查看英国格拉斯哥大学里很多专业每门课、每学期、具体到每星期的教学计划大纲，作为自学指南。点击 Browser Hierarchy，进入选择页面。点击想去就读的学院 College，比如社会科学 College of Social Science。再进入院系 School，比如 政治和社会学系 School of Social & Political Sciences。该院系课程都在你面前了！请点击你要选修的课程，比如 CEES 1B Communism and its Collapse。获得课程大纲只是第一步，重要的是按照它所提供的书目进行系统学习。
+        - title: 英国名校课程大纲
+          logo: https://api.iowen.cn/favicon/bristol.rl.talis.com.png
+          url: https://bristol.rl.talis.com/index.html
+          description: 布里斯托大学。伯明翰大学：https://bham.rl.talis.com/index.html；华威大学：https://warwick.rl.talis.com/index.html；诺丁汉大学：https://notts.rl.talis.com/index.html；南安普顿大学：https://soton.rl.talis.com/index.html。
         - title: 框框大学
           logo: https://cdn.jsdelivr.net/gh/rieleg/pics/imgs/202308120959417.png
           url: https://www.kkdaxue.com/
@@ -132,6 +140,10 @@
           logo: https://api.iowen.cn/favicon/dec41.user.srcf.net.png
           url: http://dec41.user.srcf.net/notes/
           description: 剑桥大学的一个学生写的很全面的课程笔记，不论是学数学，还是学 latex，都可以去看看！
+        - title: 看见概率论
+          logo: https://api.iowen.cn/favicon/probability.visualized.fun.png
+          url: https://probability.visualized.fun/
+          description: 让概率论变得可见且有趣。通过直观的交互式演示，深入理解概率论中的经典定理， 让抽象的数学概念变得生动有趣。
         - title: The GradCafe
           logo: https://api.iowen.cn/favicon/www.thegradcafe.com.png
           url: https://www.thegradcafe.com/
@@ -219,15 +231,23 @@
         - title: 无名图书
           logo: https://api.iowen.cn/favicon/www.book123.info.png
           url: https://www.book123.info/
-          description: 一个好看的电子书网站
-        - title: Bookzz
-          logo: https://api.iowen.cn/favicon/www.bookzz.ren.png
-          url: https://www.bookzz.ren/
-          description: zlib 翻版？
+          description: 一个好看的电子书网站。
+        - title: Zlibrary
+          logo: https://api.iowen.cn/favicon/1lib.sk.png
+          url: https://1lib.sk/
+          description: 您通往知识和文化的门户。每个人都可以使用。
         - title: 安娜的档案
           logo: https://api.iowen.cn/favicon/annas-archive.org.png
           url: https://zh.annas-archive.org/
           description: 人类历史上最大的完全开放的图书馆。
+        - title: Ylibrary
+          logo: https://api.iowen.cn/favicon/ylibrary.org.png
+          url: https://ylibrary.org/
+          description: 去中心化图书馆项目旨在安全地保存大量书籍数据库。我们致力于收集互联网中公开的书籍数据库、并编撰适合大众使用的搜索程序、开发搜索接口。
+        - title: Book Searcher
+          logo: https://api.iowen.cn/favicon/github.com.png
+          url: https://github.com/zu1k/bs-core
+          description: 简单而超快的图书搜索器，创建并搜索您的私人图书馆。Book Searcher 可以在一分钟内索引超过 1000 万本书的元数据，并以 30 微秒的速度进行搜索。
         - title: PDF DRIVE
           logo: https://api.iowen.cn/favicon/www.pdfdrive.com.png
           url: https://www.pdfdrive.com/
@@ -357,7 +377,7 @@
         - title: 深言达意 
           logo: https://api.iowen.cn/favicon/www.shenyandayi.com.png
           url: https://www.shenyandayi.com/
-          description: 懂文字，更懂你。输入想表达的意思，找到恰当用词；一键查询词语的释义、近义词、反义词、联想词等。
+          description: 懂文字，更懂你。据意查词 —— 输入想表达的意思，找到恰当用词。词汇检索 —— 一键查询词语的释义、近义词、反义词、联想词等。
         - title: 有道翻译
           logo: https://api.iowen.cn/favicon/fanyi.youdao.com.png
           url: http://fanyi.youdao.com/
@@ -2131,6 +2151,10 @@
           logo: https://api.iowen.cn/favicon/mirror.ghproxy.com.png
           url: https://mirror.ghproxy.com/
           description: 代理加速。
+        - title: GitHub Insights Pro
+          logo: https://api.iowen.cn/favicon/github-insights-pro.toolsnav.top.png
+          url: https://github-insights-pro.toolsnav.top/
+          description: 发现强大的分析工具和精美的可视化效果，深入了解您的 GitHub 开发历程。获取更深入的开发模式和贡献洞察。从个人代码足迹到全球开发者排行， 让您深入了解开源世界的方方面面。无论是寻找优秀项目、发现热门开发者，还是展示自己的编程生涯， 这里都能满足您的需求。
         - title: 开源中国
           logo: https://api.iowen.cn/favicon/www.oschina.net.png
           url: https://www.oschina.net/
@@ -2305,6 +2329,10 @@
           logo: https://api.iowen.cn/favicon/www.codewithantonio.com.png  
           url:  https://www.codewithantonio.com/ 
           description: 作者复刻了很多知名产品的全栈项目，用来学习或者干点别的，都是很大的帮助，如果你的产品和这些类似的话，可以来看看。
+        - title: Java 全栈知识体系
+          logo: https://api.iowen.cn/favicon/pdai.tech.png
+          url: https://pdai.tech/
+          description: 包含 Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&CD, Linux, DevOps, 分布式, 中间件, 开发工具, Git, IDE, 源码阅读，读书笔记, 开源项目...
         - title: Statichunt
           logo: https://api.iowen.cn/favicon/statichunt.com.png
           url: https://statichunt.com/
@@ -2843,6 +2871,14 @@
           logo: https://api.iowen.cn/favicon/www.portablefreeware.com.png
           url: https://www.portablefreeware.com/
           description: 该网站汇集了成千上万款绿色便携式软件，覆盖了从办公和图形设计到系统工具和游戏等多个领域。里面的软件都无需安装，可以直接在任何移动存储设备上运行，极大的提升了软件灵活性、便捷性。
+        - title: MEFCL
+          logo: https://api.iowen.cn/favicon/www.mefcl.com.png
+          url: https://www.mefcl.com/
+          description: 软件合集地址免费版无收费，各类实用软件修改。
+        - title: 缘本初见
+          logo: https://api.iowen.cn/favicon/www.52ybcj.com.png
+          url: https://www.52ybcj.com/
+          description: 始建于 2022 年 10 月，使用著名博客程序 WP 搭建。缘本初见是一软件资源分享下载站，专注为用户提供各种绿色、实用、有趣的应用和技术教程等，分享是我们的宗旨也是这个站点存在的意义！
         - title: Pendriveapps
           logo: https://api.iowen.cn/favicon/pendriveapps.com.png
           url: https://pendriveapps.com/
@@ -3600,6 +3636,10 @@
           logo: https://api.iowen.cn/favicon/www.16personalities.com.png
           url: https://www.16personalities.com/
           description: MBTI. 缩小可能的擅长和兴趣范围，再多去尝试
+        - title: 搜医搜
+          logo: https://api.iowen.cn/favicon/www.souyisou.online.png
+          url: http://www.souyisou.online/
+          description: 一款基于默沙东诊疗手册的 AI 搜索产品。通过把默沙东诊疗手册作为唯一的搜索内容库，在返回搜索结果的同时，给出基于搜索结果的答案。
         - title: 医学微视
           logo: https://api.iowen.cn/favicon/www.mvyxws.com.png
           url: https://www.mvyxws.com/
@@ -3671,7 +3711,11 @@
         - title: 阿里云盘资源
           logo: https://api.iowen.cn/favicon/docs.qq.com.png
           url: https://docs.qq.com/sheet/DVHpJVmRhT3ViV09Q?tab=ppx5bp
-          description: 持续更新的共享表格
+          description: 持续更新的共享表格。
+        - title: 搜索123
+          logo: https://api.iowen.cn/favicon/www.sousuo123.com.png
+          url: www.sousuo123.com/
+          description: 一个便捷的多引擎聚合搜索平台，旨在为用户提供一站式的搜索体验。用户可以通过一个统一的搜索框同时查询多个搜索引擎，包括AI搜索、百度、搜狗、Google、影视资源搜索以及网盘资源等。
         - title: 小马盘 
           logo: https://api.iowen.cn/favicon/www.xiaomapan.com.png
           url: https://www.xiaomapan.com/
@@ -3786,10 +3830,6 @@
           logo: https://api.iowen.cn/favicon/video.unext.jp.png
           url: https://video.unext.jp/
           description: 特别全的日本影视平台，从电影/电视剧/动漫到漫画和杂志等电子书-│31天免费试用
-        - title: COLAMANGA
-          logo: https://api.iowen.cn/favicon/www.colamanga.com.png
-          url: https://www.colamanga.com/
-          description: 看漫画的网站。
         - title: 亿万同人字幕组
           logo: https://api.iowen.cn/favicon/ywtrzmz.net.png
           url: https://ywtrzmz.net/
@@ -4087,7 +4127,15 @@
         - title: HARIMANGA
           logo: https://api.iowen.cn/favicon/harimanga.com.png
           url: https://harimanga.com/manhwa-fast/
-          description: 英文版韩漫
+          description: 英文版韩漫。
+        - title: COLAMANGA
+          logo: https://api.iowen.cn/favicon/www.colamanga.com.png
+          url: https://www.colamanga.com/
+          description: 看漫画的网站。
+        - title: komiic
+          logo: https://api.iowen.cn/favicon/komiic.com.png
+          url: https://komiic.com
+          description: 現在努力的在經營這個網站，想把它做到最好，目前漫畫數在2400本漫畫左右, 陸續增加中。這個網站是一個人在經營維護，如果有沒有更新到的漫畫或是漫畫有錯誤請見諒。
         - title: 老画报网
           logo: https://api.iowen.cn/favicon/www.laohuabao.com.png
           url: http://www.laohuabao.com
@@ -4136,6 +4184,14 @@
           logo: https://api.iowen.cn/favicon/knowsex.net.png
           url: https://knowsex.net/
           description: 是一个性教育网站，致力于提供直观、明了的性知识，解答群众困惑，并希望藉此减少一些社会问题的发生。镜像站点：https://xingjiaoyu.net
+        - title: 性别烦躁指南
+          logo: https://api.iowen.cn/favicon/gdb.pichuchen.tw.png
+          url: https://gdb.pichuchen.tw/zh/
+          description: 性别烦躁指南是一份有生命的指南。此网站的内容会随性别烦躁概念的扩大而增改内容。现有的迭代中极度缺乏描述非二元性别、无性别及流性别的性别烦躁内容，也缺乏关于第三性别和双灵的叙述。本指南是开源且由公众资助的项目，非常欢迎您的贡献。
+        - title: 女學學誌
+          logo: https://api.iowen.cn/favicon/jwgs.psc.ntu.edu.tw.png
+          url: https://jwgs.psc.ntu.edu.tw/
+          description: 由臺大婦女研究室出版的半年刊，以雙盲同儕審查為基礎，有志於建構公開的性別研究論壇，形塑多元共存的學術社群網絡。凡以正體中文寫成、符合研究誠信原則的原創研究，均歡迎投稿（本刊不設截稿期限，隨時接受來稿）。
         - title: TheDuchy 
           logo: https://api.iowen.cn/favicon/www.theduchy.com.png  
           url: https://www.theduchy.com/
