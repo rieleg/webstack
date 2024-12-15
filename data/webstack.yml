@@ -15,7 +15,7 @@
       logo: https://api.iowen.cn/favicon/wj.qq.com.png
       url: https://wj.qq.com/s2/12889327/82df/
       description: 如果您有推荐的网站，可以填写此问卷。
-    - title: 2024-12-01
+    - title: 2024-12-15
       logo: https://cdn-icons-png.flaticon.com/512/5278/5278646.png
       url: https://webs.yelleis.top/
       description: 更新日期
@@ -168,6 +168,10 @@
           logo: https://api.iowen.cn/favicon/www.yearsmap.com.png
           url: https://www.yearsmap.com/
           description: 用动态年龄、向量关系看历史。历史研究者/内容创作者/深度爱好者 的 内容梳理/挖掘工具。
+        - title: OldMaps Online
+          logo: https://api.iowen.cn/favicon/www.oldmapsonline.org.png
+          url: https://www.oldmapsonline.org/en/history/regions
+          description: 调整时间轴查看某一时代各国的领导人、重要战役等
         - title: MakerSkillTree
           logo: https://api.iowen.cn/favicon/github.com.png
           url: https://github.com/sjpiper145/MakerSkillTree
@@ -1393,6 +1397,10 @@
           logo: https://api.iowen.cn/favicon/svg.la.png
           url: https://svg.la/zh/text-to-svg/
           description: 使用文本描述生成 SVG 图案，可用作 logo 、图标、插画等用途，一键下载到本地。
+        - title: svg.wtf
+          logo: https://api.iowen.cn/favicon/svg.wtf.png
+          url: https://svg.wtf/
+          description: 一个使用 SVGs 进行设计和学习语法的教育工具。
         - title: Logos-world
           logo: https://api.iowen.cn/favicon/logos-world.net.png
           url: https://logos-world.net/
@@ -1623,6 +1631,10 @@
           logo: https://api.iowen.cn/favicon/www.pickfree.cn.png
           url: http://www.pickfree.cn/
           description: 免费资源导航|免版权图片|免费商用字体|免费音频、视频等设计素材下载。
+        - title: dl-sounds
+          logo: https://api.iowen.cn/favicon/www.dl-sounds.com.png
+          url: https://www.dl-sounds.com/
+          description: 免版税音乐。下载高级免版税音乐以增强您的创意项目。浏览我们的资料库，寻找专为满足您的所有需求而量身定制的独特、高质量的曲目。
         - title: Pixabay
           logo: https://api.iowen.cn/favicon/pixabay.com.png
           url: https://pixabay.com/
@@ -2151,6 +2163,10 @@
           logo: https://api.iowen.cn/favicon/mirror.ghproxy.com.png
           url: https://mirror.ghproxy.com/
           description: 代理加速。
+        - title: freemediaheckyeah
+          logo: https://api.iowen.cn/favicon/fmhy.net.png
+          url: https://fmhy.net/
+          description: 互联网上最大的免费内容集合！
         - title: GitHub Insights Pro
           logo: https://api.iowen.cn/favicon/github-insights-pro.toolsnav.top.png
           url: https://github-insights-pro.toolsnav.top/
@@ -2163,6 +2179,10 @@
           url: https://news.ycombinator.com/
           logo: https://api.iowen.cn/favicon/news.ycombinator.com.png
           description: 一家关于计算机黑客和创业公司的社会化新闻网站。
+        - title: LearnKu
+          logo: https://api.iowen.cn/favicon/learnku.com.png
+          url: https://learnku.com/
+          description: LearnKu 是终身编程者的修道场，做最专业、严肃的技术论坛。
         - title: Just Ship It
           logo: https://api.iowen.cn/favicon/marclou.beehiiv.com.png
           url: https://marclou.beehiiv.com/
@@ -2644,7 +2664,11 @@
         - title: AI 重要论文  
           logo: https://api.iowen.cn/favicon/www.reddit.com.png
           url: https://www.reddit.com/r/ArtificialInteligence/comments/1cpbh1s/ilya_sutskever_if_you_really_learn_all_of_these/ 
-          description: OpenAI 的前首席科学家 Ilya Sutskever 开出了一份论文清单，一共包含30篇论文。他说："如果你真正学会了所有这些，你就会知道当今 AI 的 90% 重要内容。"
+          description: OpenAI 的前首席科学家 Ilya Sutskever 开出了一份论文清单，一共包含30篇论文。他说："如果你真正学会了所有这些，你就会知道当今 AI 的 90% 重要内容。
+        - title: 动手学大模型应用开发
+          logo: https://api.iowen.cn/favicon/datawhalechina.github.io.png
+          url: https://datawhalechina.github.io/llm-universe/
+          description: 本项目是一个面向小白开发者的大模型应用开发教程，旨在基于阿里云服务器，结合个人知识库助手项目，通过一个课程完成大模型开发的重点入门。
         - title: SEO：初学者完整指南
           logo: https://api.iowen.cn/favicon/ahrefs.com.png
           url: https://ahrefs.com/zh/seo
@@ -2722,7 +2746,11 @@
         - title: Prompt 广场
           logo: https://api.iowen.cn/favicon/agicto.com.png
           url: https://agicto.com/prompt
-          description: 通过 AGICTO，开发者可以轻松访问和调试海量模型，利用模型广场和 Prompt 工程快速调试模型质量，集成知识库、智能体等应用组件，借助 RAG 增强技术快速构建支持多模态交互的 AI 应用，进一步加速 AI 
+          description: 通过 AGICTO，开发者可以轻松访问和调试海量模型，利用模型广场和 Prompt 工程快速调试模型质量，集成知识库、智能体等应用组件，借助 RAG 增强技术快速构建支持多模态交互的 AI 应用，进一步加速 AI
+        - title: 提示工程指南
+          logo: https://api.iowen.cn/favicon/www.promptingguide.ai.png
+          url: https://www.promptingguide.ai/zh
+          description: 提示工程指南（Prompt Engineering Guide）是由 DAIR.AI 发起的项目，旨在帮助研发和行业内相关人员了解提示工程。以传播 AI 技术和研究成果为目标，DAIR.AI 的愿景是赋能新一代 AI 领域的创新者。我们欢迎大家的贡献！大家可以查找页面上的编辑按钮参与贡献。
         - title: Catjourney
           logo: https://api.iowen.cn/favicon/catjourney.life.png
           url: https://catjourney.life/
@@ -2950,7 +2978,11 @@
         - title: APKPure
           logo: https://api.iowen.cn/favicon/m.apkpure.com.png
           url: https://m.apkpure.com/cn
-          description: 使用免费在线APK下载器下载APK到安卓
+          description: 使用免费在线APK下载器下载APK到安卓。
+        - title: 423Down
+          logo: https://api.iowen.cn/favicon/www.423down.com.png
+          url: https://www.423down.com/
+          description: 「423Down」是一家由个人运营的软件下载站博客，专注去广告类软件输出10年，主要提供电脑软件和安卓软件及系统镜像下载，更新资源速度快，致力于打造个人IP品牌。「zd423」是站长本人最早使用过的网络ID马甲，个人曾经在2013年创建了下载站「zdfans.com」软件分享平台领跑者，原域名是在2016年被网络公司收购商业化运营，目前已经是搜索引擎流量非常大的软件下载站，现在个人IP网址为「423down.com」始于爱好，忠于习惯，不忘初心，方能长久坚持！
         - title: LITEAPKS
           logo: https://api.iowen.cn/favicon/liteapks.com.png
           url: https://liteapks.com
@@ -3346,6 +3378,10 @@
           logo: https://api.iowen.cn/favicon/www.iwhver.com.png
           url: https://www.iwhver.com/
           description: 打工度假攻略， 打工度假资讯的平台。
+        - title: ertland
+          logo: https://api.iowen.cn/favicon/ertland.notion.site.png
+          url: https://ertland.notion.site/whv-ertland-c7fede651a854126899cd21599479714
+          description: 新西兰whv打工度假攻略。
         - title: 优雅简历
           logo: https://api.iowen.cn/favicon/www.elegantresume.pro.png
           url: https://www.elegantresume.pro
@@ -3688,6 +3724,10 @@
           logo: https://api.iowen.cn/favicon/gigafile.nu.png  
           url: https://gigafile.nu/ 
           description:  免注册免登录的网盘，上传下载完全匿名，最长时效 100 天。
+        - title: Filen
+          logo: https://api.iowen.cn/favicon/filen.io.png
+          url: https://filen.io/
+          description: 加密云存储，专业企业。值得信赖的可靠零知识客户端加密云存储。体验不折不扣的安全性，同时又不牺牲功能。免费 10GB。
         - title: Internxt Send
           logo: https://api.iowen.cn/favicon/send.internxt.com.png
           url: https://send.internxt.com/
@@ -3772,10 +3812,6 @@
           logo: https://api.iowen.cn/favicon/www.bbkz.com.png  
           url: https://www.bbkz.com/forum/ 
           description:  台湾的一个以旅游资讯分享为基础的网络论坛。
-        - title: freemediaheckyeah
-          logo: https://api.iowen.cn/favicon/fmhy.net.png
-          url: https://fmhy.net/
-          description: 互联网上最大的免费内容集合！
         - title: Immich
           logo: https://api.iowen.cn/favicon/immich.app.png
           url: https://immich.app/
@@ -3809,7 +3845,11 @@
         - title: 纪录片部落
           logo: https://api.iowen.cn/favicon/www.xitongle.com.png
           url: https://www.xitongle.com/
-          description: 纪录片从业者门户
+          description: 纪录片从业者门户。
+        - title: XSH云视频搜索页
+          logo: https://api.iowen.cn/favicon/so.xshyun.top.png
+          url: https://so.xshyun.top/
+          description: 可以检索查找电影电视剧综艺并在线播放。如果不知道看什么，网站还会随机推荐。
         - title: 电影天堂（DYTT8）
           logo: https://api.iowen.cn/favicon/www.dytt8.net.png
           url: https://www.dytt8.net/index.htm
