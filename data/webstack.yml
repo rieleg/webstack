@@ -15,7 +15,7 @@
       logo: https://api.iowen.cn/favicon/wj.qq.com.png
       url: https://wj.qq.com/s2/12889327/82df/
       description: 如果您有推荐的网站，可以填写此问卷。
-    - title: 2024-12-15
+    - title: 2024-12-29
       logo: https://cdn-icons-png.flaticon.com/512/5278/5278646.png
       url: https://webs.yelleis.top/
       description: 更新日期
@@ -256,6 +256,10 @@
           logo: https://api.iowen.cn/favicon/www.pdfdrive.com.png
           url: https://www.pdfdrive.com/
           description: 拥有近 7700 万本书籍且数目还在增长，支持 pdf、epub、mobi 格式的下载。
+        - title: Liber3
+          logo: https://api.iowen.cn/favicon/liber3.eth.limo.png
+          url: https://liber3.eth.limo/
+          description: 基于 IPFS 下载的电子书搜索引擎。
         - title: SoBooks
           logo: https://api.iowen.cn/favicon/sobooks.cc.png
           url: https://sobooks.cc/
@@ -601,6 +605,10 @@
           logo: https://api.iowen.cn/favicon/www.zcool.com.cn.png
           url: https://www.zcool.com.cn/
           description: 设计师互动平台-打开站酷，发现更好的设计！
+        - title: Art Book Collection
+          logo: https://api.iowen.cn/favicon/artbookcollection.info.png
+          url: https://artbookcollection.info/
+          description: 畫集．設定集．立體書．繪本．圖文書，插畫與書籍的交匯之處。書籍開箱 × 插畫分享。
         - title:  界面灵感网站
           logo: https://api.iowen.cn/favicon/uxchi.notion.site.png
           url: https://uxchi.notion.site/881b4c0179a74935a3f607ad3521cdb5
@@ -685,6 +693,7 @@
           logo: https://api.iowen.cn/favicon/www.shejibox.cn.png
           url: http://www.shejibox.cn/
           description: 全球高质量设计师网址导航大全。
+        
 
 ## 素材教程
     - term: 素材教程
@@ -2373,6 +2382,10 @@
           logo: https://api.iowen.cn/favicon/github.com.png
           url: https://github.com/ezshine/AwesomeSites/
           description: 随着时间流逝，许多令人惊叹的网站可能会从互联网上消失。这个项目收集了大量设计优秀网站的前端代码。只需克隆代码库，进入相应的网站文件夹，使用本地 HTTP 服务器（如 live-server），你就能离线访问这些精彩网站了。
+        - title: 太空编程
+          logo: https://api.iowen.cn/favicon/spacexcode.com.png
+          url: https://spacexcode.com/
+          description: 分享硬核且有趣的前端编程知识。
         - title: CODELF
           logo: https://api.iowen.cn/favicon/unbug.github.io.png
           url: https://unbug.github.io/codelf/
@@ -2923,6 +2936,14 @@
           logo: https://cdn.jsdelivr.net/gh/rieleg/pics/imgs/202308292046156.png
           url: https://jamcz.com/
           description: 致力于开发小众、实用、易上手的软件。
+        - title: Web 应用的应用商店
+          logo: https://api.iowen.cn/favicon/webcatalog.io.png
+          url: https://webcatalog.io/zh-CN/apps
+          description: 找到合适的软件和服务。使用 WebCatalog Desktop 将网站转化为桌面应用，并访问大量 Mac、Windows 专属的应用。使用空间组织应用，在多个帐户之间轻松切换，通过前所未有的方式提高工作效率。
+        - title: 好用软件收集
+          logo: https://api.iowen.cn/favicon/www.yuque.com.png
+          url: https://www.yuque.com/pingguoajie/wk48mo
+          description: 系统镜像、浏览器插件、安卓软件、windows软件、浏览器插件。
         - title: 绿软家园
           logo: https://api.iowen.cn/favicon/www.downga.com.png
           url: https://www.downga.com/
@@ -3088,6 +3109,10 @@
           logo: https://api.iowen.cn/favicon/collection.directory.png
           url: https://collection.directory/
           description: Collection Directory 是一个汇集了大量设计灵感的网站，专注于为设计师提供不同类型的设计集合，包括网站、移动应用、图标、动画等。它通过精心挑选的设计案例，让用户轻松找到优秀的设计作品，激发创作灵感。无论是寻找极简风格、暗色系网站，还是想了解最新的品牌重塑案例，这里都有丰富的资源可供参考。对于设计师和创意人士来说，这是一个非常实用的灵感库。
+        - title: AI.toolbox
+          logo: https://api.iowen.cn/favicon/www.jasonstoolbox.com.png
+          url: https://www.jasonstoolbox.com/
+          description: 设计师 AI 工具箱。
         - title: NavNav+
           logo: https://api.iowen.cn/favicon/navnav.co.png
           url: https://navnav.co/
@@ -3346,6 +3371,10 @@
           logo: https://api.iowen.cn/favicon/www.remotenomadjobs.com.png
           url: https://www.remotenomadjobs.com/
           description: 一个专门为数字游民设计的工作平台，汇集了全球各地的 100% 远程工作机会，涵盖软件开发、设计、营销、数据分析等多个领域。平台分类清晰，方便你按需求筛选合适的职位。对于喜欢旅行、寻求灵活工作安排的数字游民来说，这是一个理想的工作资源库，帮助他们在世界任何地方工作。
+        - title: 远程工作
+          logo: https://api.iowen.cn/favicon/yuancheng.works.png
+          url: https://yuancheng.works/
+          description: 远程职位日报，前端、后端、全栈、移动端及其他。
         - title: LikeRemote
           logo: https://api.iowen.cn/favicon/likeremote.com.png
           url: https://likeremote.com/
@@ -3850,6 +3879,10 @@
           logo: https://api.iowen.cn/favicon/so.xshyun.top.png
           url: https://so.xshyun.top/
           description: 可以检索查找电影电视剧综艺并在线播放。如果不知道看什么，网站还会随机推荐。
+        - title: 考拉电影
+          logo: https://api.iowen.cn/favicon/koalafilm.top.png
+          url: https://koalafilm.top/
+          description: 高清电影资源分享。
         - title: 电影天堂（DYTT8）
           logo: https://api.iowen.cn/favicon/www.dytt8.net.png
           url: https://www.dytt8.net/index.htm
@@ -4243,7 +4276,11 @@
         - title: Pornhub
           logo: https://api.iowen.cn/favicon/cn.pornhub.com.png
           url: https://cn.pornhub.com/
-          description: 免费色情视频及性爱影片 – A片，X级，色情片分享网站
+          description: 免费色情视频及性爱影片 – A片，X级，色情片分享网站。
+        - title: Porn Dude
+          logo: https://api.iowen.cn/favicon/theporndude.com.png
+          url: https://theporndude.com/zh
+          description: 是世界上最好的色情网站目录！ ThePornDude是我多年努力工作的结晶。它是一个分享最好的内容为年轻美女和熟妇动作片的免费或付费色情网站的收藏库。如果你是在寻找能在电脑或移动设备上浏览的色情内容的话，那么这个网站能够满足你所有的需求！我不会在这里放置广告，我从不胡说八道，我会直接把所有的信息都提供给你，这也是为什么人们这么喜欢我的原因！
         - title: 嗶咔漫畫 
           logo: https://api.iowen.cn/favicon/www.picacomic.com.png
           url: https://www.picacomic.com/
