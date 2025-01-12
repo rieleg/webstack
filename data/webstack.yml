@@ -15,7 +15,7 @@
       logo: https://api.iowen.cn/favicon/wj.qq.com.png
       url: https://wj.qq.com/s2/12889327/82df/
       description: 如果您有推荐的网站，可以填写此问卷。
-    - title: 2024-12-29
+    - title: 2025-01-12
       logo: https://cdn-icons-png.flaticon.com/512/5278/5278646.png
       url: https://webs.yelleis.top/
       description: 更新日期
@@ -504,6 +504,10 @@
           logo: https://api.iowen.cn/favicon/conjuguemos.com.png
           url: http://conjuguemos.com/
           description: 练习 conjugation，西语 > 法语 > 德语 = 其他
+        - title: TSUNAHIRO
+          logo: https://api.iowen.cn/favicon/tsunagarujp.mext.go.jp.png
+          url: https://tsunagarujp.mext.go.jp/?lang_id=ZH
+          description: “外国居民”的日语学习网站，融会贯通 日语生活。
 
 ## 投资理财
     - term: 投资理财
@@ -550,7 +554,7 @@
         - title: Krita
           logo: https://api.iowen.cn/favicon/krita.org.png
           url: https://krita.org/zh/
-          description: 自由开源的免费绘画软件
+          description: 自由开源的免费绘画软件。
         - title: CLIP STUDIO PAINT
           logo: https://api.iowen.cn/favicon/www.clipstudio.net.png
           url: https://www.clipstudio.net/tc/
@@ -673,6 +677,10 @@
           logo: https://api.iowen.cn/favicon/search.creativecommons.org.png
           url: https://search.creativecommons.org/
           description: 可以搜索各个网站的公用版权的聚合网站，艺术作品非常丰富。
+        - title: Public Domain Image Archive
+          logo: https://api.iowen.cn/favicon/pdimagearchive.org.png
+          url: https://pdimagearchive.org/
+          description: 探索我们精心挑选的 10,046 件版权外作品，所有人都可以免费浏览、下载和重复使用。这是一个每周都会添加新图像的动态数据库。
         - title: Agent 002
           logo: https://cdn.jsdelivr.net/gh/rieleg/pics/imgs/202308111051503.png
           url: https://www.agent002.com/
@@ -2224,7 +2232,7 @@
           logo: https://api.iowen.cn/favicon/gitbegin.theenthusiast.dev.png
           url: https://gitbegin.theenthusiast.dev/
           description: 开源项目，旨在帮助开发人员查找和跟踪他们的第一个开源贡献。它简化了在各种项目和技术中发现 “good first issues” 的过程。
-        - title: Build Your Own X   
+        - title: Build Your Own X
           logo: https://api.iowen.cn/favicon/github.com.png  
           url: https://github.com/codecrafters-io/build-your-own-x  
           description: 这是一个集合了各种技术主题的开源学习资源库，旨在引导开发者通过实践来掌握核心概念。
@@ -2298,6 +2306,10 @@
           logo: https://api.iowen.cn/favicon/github.com.png
           url: https://github.com/free-educa/books
           description: 获取与开发和编程相关的精选书籍的首选资源。无论您是有抱负的程序员、经验丰富的开发人员，还是只是对跟上最新软件变化和趋势感兴趣的人，此存储库都能满足您的需求。
+        - title: 正确认识 Git
+          logo: https://api.iowen.cn/favicon/www.atlassian.com.png
+          url: https://www.atlassian.com/zh/git
+          description: 通过教程、新闻和提示学习 Git。
         - title: Code Guide
           logo: https://cdn.jsdelivr.net/gh/rieleg/pics/imgs/202308081830870.png
           url: http://alloyteam.github.io/CodeGuide/
@@ -2338,6 +2350,10 @@
           logo: https://api.iowen.cn/favicon/tsejx.github.io.png
           url: https://tsejx.github.io/javascript-guidebook/
           description: 提供了一个全面的 JavaScript 知识体系，包括基础语法、内置对象、核心模块、面向对象编程、浏览器对象模型（BOM）、文档对象模型（DOM）、计算机网络、设计模式等内容，旨在帮助开发者系统化学习并在日常开发中查阅具体技术细节。
+        - title: 运维开发绿皮书
+          logo: https://api.iowen.cn/favicon/www.geekery.cn.png
+          url: https://www.geekery.cn/
+          description: 放置运维开发笔记、搜集、摘录、实践，保持好奇心，看文需谨慎，后果很严重！
         - title: 系统设计面试：内幕指南
           logo: https://api.iowen.cn/favicon/learning-guide.gitbook.io.png
           url: https://learning-guide.gitbook.io/system-design-interview
@@ -2386,6 +2402,10 @@
           logo: https://api.iowen.cn/favicon/spacexcode.com.png
           url: https://spacexcode.com/
           description: 分享硬核且有趣的前端编程知识。
+        - title: Frontend Stack
+          logo: https://api.iowen.cn/favicon/chrissong1994.github.io.png
+          url: https://chrissong1994.github.io/frontend-stack/index
+          description: 一个前端知识体系站点。化散为整，让知识变的清晰明朗。
         - title: CODELF
           logo: https://api.iowen.cn/favicon/unbug.github.io.png
           url: https://unbug.github.io/codelf/
@@ -2454,6 +2474,10 @@
           logo: https://api.iowen.cn/favicon/www.emulator101.com.png
           url: http://www.emulator101.com/
           description: 该教程以 C 语言为基础，适合想要深入了解 CPU 工作原理的学习者。教程指导读者一步步编写一个模拟 Space Invaders 游戏的 8080 CPU 仿真器，通过实际操作帮助理解 CPU 的工作原理和汇编语言。除了基础的编程知识，还涵盖了二进制和十六进制的介绍、CPU 的快速入门、逻辑操作、汇编语言、堆栈等内容。此外，还提供了针对不同平台（如 Mac OS X、iOS）的模拟器移植指南。
+        - title: 操作系统：设计与实现
+          logo: https://api.iowen.cn/favicon/jyywiki.cn.png
+          url: https://jyywiki.cn/OS/2024/
+          description: (2024 春季学期) 我们会在课程中交替地从三个视角观察操作系统，最终建立对 “操作系统” 的正确认识。
         - title: 菜鸟教程
           logo: https://api.iowen.cn/favicon/www.runoob.com.png
           url: https://www.runoob.com/
@@ -2626,6 +2650,10 @@
           logo: https://api.iowen.cn/favicon/www.framer.com.png
           url: https://www.framer.com/motion/
           description: Framer Motion 动画库的完整文档。React 的生产就绪运动库。
+        - title: 使用 React Native 和 Expo 教程
+          logo: https://api.iowen.cn/favicon/docs.expo.dev.png
+          url: https://docs.expo.dev/tutorial/introduction/
+          description: 介绍如何使用 Expo 构建可在 Android、iOS 和 Web 上运行的通用应用程序的 React Native 教程。
         - title: Learn Next.js 中文教程
           logo: https://api.iowen.cn/favicon/qufei1993.github.io.png
           url: https://qufei1993.github.io/nextjs-learn-cn/
@@ -2666,10 +2694,18 @@
           logo: https://api.iowen.cn/favicon/www.learn-ts.org.png
           url: https://www.learn-ts.org
           description: 通过一个个小练习，讲授 TypeScript 语法。
+        - title: Mixbox
+          logo: https://api.iowen.cn/favicon/scrtwpns.com.png
+          url: https://scrtwpns.com/mixbox/
+          description: 绘画软件中的颜色与真实颜料的作用不同。Mixbox 是一个实用的库，用于类似绘画的颜色混合，提供 C++、Python、GLSL 等版本。
         - title: Mac 终极配置教程
           logo: https://api.iowen.cn/favicon/44maker.github.io.png
           url: https://44maker.github.io/wiki/Mac/index.html#start
           description: 一站式解决 Mac 使用问题的手册。包含上手验机、系统设置、软件安装、日常软件、开发配置、渗透工具、常见问题、软件教程、小技巧，基本上遇到的 Mac 问题都能在这里找到答案，推荐 Mac 新手或者喜欢玩机的用户观看。看了这个，网上的那些 Mac 教程就都不用看了。
+        - title: 苹果生态玄学自救指北
+          logo: https://api.iowen.cn/favicon/xream.notion.site.png
+          url: https://xream.notion.site/6fed380cf1d147c6a047bce452a8f2af
+          description: 如题。
         - title: Infinite Mac
           logo: https://api.iowen.cn/favicon/infinitemac.org.png
           url: https://infinitemac.org/
@@ -2704,6 +2740,10 @@
           logo: https://api.iowen.cn/favicon/cursor.directory.png
           url: https://cursor.directory/
           description: 找到适用于您的框架和语言的最佳 Cursor 规则和视频。
+        - title: 零基础小白Cursor学习网站
+          logo: https://api.iowen.cn/favicon/www.lookai.top.png
+          url: https://www.lookai.top/cn/
+          description: 在当下的AI时代，Cursor能够极大地赋能每一个普通人。本网站致力于帮助零基础的普通人认识、学会使用Cursor 做出自己的产品。
         - title: Void
           logo: https://api.iowen.cn/favicon/voideditor.com.png
           url: https://voideditor.com/
@@ -2764,6 +2804,10 @@
           logo: https://api.iowen.cn/favicon/www.promptingguide.ai.png
           url: https://www.promptingguide.ai/zh
           description: 提示工程指南（Prompt Engineering Guide）是由 DAIR.AI 发起的项目，旨在帮助研发和行业内相关人员了解提示工程。以传播 AI 技术和研究成果为目标，DAIR.AI 的愿景是赋能新一代 AI 领域的创新者。我们欢迎大家的贡献！大家可以查找页面上的编辑按钮参与贡献。
+        - title: 《AI 辅助软件工程：实践与案例解析》
+          logo: https://api.iowen.cn/favicon/aise.phodal.com.png
+          url: https://aise.phodal.com/
+          description: 本书是一本关于如何使用 AI 辅助软件工程的开源电子书。包含了：国内外最新的 AI 辅助软件工程实践、从 AI 模型到 IDE 插件的实现细节、从编码 RAG 到编码智能体的实践案例与经验。
         - title: Catjourney
           logo: https://api.iowen.cn/favicon/catjourney.life.png
           url: https://catjourney.life/
@@ -2847,7 +2891,11 @@
         - title: AIGC.IT
           logo: https://api.iowen.cn/favicon/www.did.fm.png
           url: https://www.did.fm/
-          description: ChatGPT国内免费地址
+          description: ChatGPT国内免费地址。
+        - title: 商量
+          logo: https://api.iowen.cn/favicon/chat.sensetime.com.png
+          url: https://chat.sensetime.com/
+          description: 既精通粤语、又具备广泛智能应用能力的商量粤语版网页版及App版，为用户提供信息丰富的高质量粤语回答。除了文字交互，商量粤语版App也能为用户提供语音交互功能。
         - title: 无际 AI
           logo: https://cdn.jsdelivr.net/gh/rieleg/pics/imgs/202308121153630.png
           url: https://www.wu-ji.com/
@@ -2928,6 +2976,10 @@
           logo: https://api.iowen.cn/favicon/appstorrent.ru.png
           url: https://appstorrent.ru/
           description: 俄罗斯破解 mac 软件网站，都是最新的，不花钱。
+        - title: MAC 青桔
+          logo: https://api.iowen.cn/favicon/www.macqj.com.png
+          url: https://www.macqj.com/
+          description: 全力服务于每一位苹果电脑用户。
         - title: 集知盒子
           logo: https://api.iowen.cn/favicon/www.jizhihezi.com.png
           url: https://www.jizhihezi.com/
@@ -3837,6 +3889,10 @@
           logo: https://api.iowen.cn/favicon/github.com.png
           url: https://github.com/obgnail/chinese-internet-is-dead
           description: 零误伤的黑名单列表。列表中的网站都是我亲手点进去，确定是垃圾网站后加上去的。已经维护好几年了，纯手工。使用方法：需要搭配浏览器插件，我目前使用的是开源的 uBlacklist。
+        - title: Wikitravel
+          logo: https://api.iowen.cn/favicon/wikitravel.org.png
+          url: https://wikitravel.org/en/Main_Page
+          description: 致力于创造自由、完整、即时和可靠的世界旅游指南之计划。目前我们已收录 657 篇来自世界各地维客旅行者所撰写的旅游指南或其他文章。你可以先查看帮助页面，了解你将能如何立刻编辑这些指南页面，或是前往计划页面来了解更多关于维客旅行的资讯，以及参与我们的协作计划。
         - title: 背包客栈 
           logo: https://api.iowen.cn/favicon/www.bbkz.com.png  
           url: https://www.bbkz.com/forum/ 
