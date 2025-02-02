@@ -15,7 +15,7 @@
       logo: https://api.iowen.cn/favicon/wj.qq.com.png
       url: https://wj.qq.com/s2/12889327/82df/
       description: 如果您有推荐的网站，可以填写此问卷。
-    - title: 2025-01-12
+    - title: 2025-02-02
       logo: https://cdn-icons-png.flaticon.com/512/5278/5278646.png
       url: https://webs.yelleis.top/
       description: 更新日期
@@ -979,7 +979,11 @@
         - title: 코디숍(Codishop) 
           logo: https://api.iowen.cn/favicon/m.store.musinsa.com.png
           url: https://m.store.musinsa.com/app/styles/lists
-          description: 有多个衣服款式的局部图，练习速写和褶皱的素材库，可360度查看
+          description: 有多个衣服款式的局部图，练习速写和褶皱的素材库，可 360 度查看。
+        - title: WhatToDraw.art
+          logo: https://api.iowen.cn/favicon/whattodraw.art.png
+          url: https://whattodraw.art/
+          description: 发现绘画的乐趣。从基本形状开始，然后按照自己的节奏发展到更复杂的绘图。使用我们的绘图工具，让练习变得有趣和有意义。通过我们的评分系统和进度跟踪查看您的进步。
         - title: Fashion Shows
           logo: https://api.iowen.cn/favicon/www.vogue.com.png
           url: https://www.vogue.com/fashion-shows
@@ -2478,6 +2482,10 @@
           logo: https://api.iowen.cn/favicon/jyywiki.cn.png
           url: https://jyywiki.cn/OS/2024/
           description: (2024 春季学期) 我们会在课程中交替地从三个视角观察操作系统，最终建立对 “操作系统” 的正确认识。
+        - title: 量子计算与编程入门
+          logo: https://api.iowen.cn/favicon/quantum-book-by-originq.readthedocs.io.png
+          url: https://quantum-book-by-originq.readthedocs.io/en/latest/index.html
+          description: 作为本源量子教材编写出版计划的第一册教材，书中对于量子计算的背景知识、量子计算数学基础、量子计算机硬件系统、量子算法与编程、量子计算前沿话题等都进行了清晰介绍。
         - title: 菜鸟教程
           logo: https://api.iowen.cn/favicon/www.runoob.com.png
           url: https://www.runoob.com/
@@ -2828,6 +2836,10 @@
           logo: https://api.iowen.cn/favicon/blackforestlabs.ai.png
           url: https://blackforestlabs.ai/#get-flux
           description: 开源 AI 图像生成引擎。
+        - title: Raphael AI
+          logo: https://api.iowen.cn/favicon/raphael.app.png
+          url: https://raphael.app/zh
+          description: 世界首个免费无限制AI图像生成器。几秒钟内创建令人惊叹的 AI 生成图像。
         - title: FluxImg.com
           logo: https://api.iowen.cn/favicon/fluximg.com.png
           url: https://fluximg.com/
@@ -3180,7 +3192,11 @@
         - title: calltoinspiration   
           logo: https://api.iowen.cn/favicon/calltoinspiration.com.png  
           url: https://calltoinspiration.com/
-          description: 一个专注于为用户体验（UX）设计师和开发者提供灵感和创意的网站，分门别类的提供了各种设计案例。 
+          description: 一个专注于为用户体验（UX）设计师和开发者提供灵感和创意的网站，分门别类的提供了各种设计案例。
+        - title: The UX Writing and Content Design Library
+          logo: https://api.iowen.cn/favicon/www.uxwritinglibrary.com.png
+          url: https://www.uxwritinglibrary.com/
+          description: 发现所有重要资源，为您提供该领域的最新和重点概述，帮助您保持领先地位，或指导您迈出进入 UX 写作和内容设计世界的第一步。 
         - title: Responsive Viewer
           logo: https://api.iowen.cn/favicon/responsiveviewer.org.png
           url: https://responsiveviewer.org/
@@ -3621,6 +3637,10 @@
           logo: https://api.iowen.cn/favicon/ifixit.com.png
           url: https://zh.ifixit.com/
           description: 免费修理手册，大家齐心协力写出的包罗万象的免费修理指南。
+        - title: 常见原研药目录
+          logo: https://api.iowen.cn/favicon/medicinex.net.png
+          url: https://medicinex.net/
+          description: 共收录 924 种药品，实时更新的常见原研药数据库。数据来源于网络，仅供参考。请遵医嘱用药，并在医师指导下使用药物。
         - title: 打扫清单 日程安排
           logo: https://api.iowen.cn/favicon/www.goodhousekeeping.com.png
           url: https://www.goodhousekeeping.com/home/cleaning/a37462/how-often-you-should-clean-everything/
@@ -3963,6 +3983,10 @@
           logo: https://api.iowen.cn/favicon/ywtrzmz.net.png
           url: https://ywtrzmz.net/
           description: 亿万同人字幕组是一个集原创或搬运的同人小说和影视资源的分享交流平台。目前以 lgbtq 影视资源翻译分享为主，致力于打造一个优秀的 lgbtq 影视浏览平台，并对 Igbtq 优秀影视作品进行推广，传播 lgbtq 的历史文化与品牌意志。
+        - title: SubHD
+          logo: https://api.iowen.cn/favicon/subhd.cc.png
+          url: https://subhd.cc/
+          description: 分享交流下载字幕平台。
         - title: 低端影视
           logo: https://cdn.jsdelivr.net/gh/rieleg/pics/imgs/202308071744598.x-icon
           url: https://ddys.site/
