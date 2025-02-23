@@ -15,7 +15,7 @@
       logo: https://api.iowen.cn/favicon/wj.qq.com.png
       url: https://wj.qq.com/s2/12889327/82df/
       description: 如果您有推荐的网站，可以填写此问卷。
-    - title: 2025-02-03
+    - title: 2025-02-23
       logo: https://cdn-icons-png.flaticon.com/512/5278/5278646.png
       url: https://webs.yelleis.top/
       description: 更新日期
@@ -404,6 +404,10 @@
           description: 一款在您电脑本地运行的私有软件。一键开启多语种实时翻译，管理音频、译文和时间轴，即使身处没有网络的教室、地铁、商场或户外。不收集数据，保护隐私。macOS 系统、M1及以上系列芯片，即将支持 Windows 系统。
     - term: 语言学习
       links:
+        - title: Refold
+          logo: https://api.iowen.cn/favicon/refold.la.png
+          url: https://refold.la/
+          description: 第一个完整的语言学习解决方案。我们向您展示如何通过适应您的生活方式，兴趣和目标的方法来学习从零到流利的新语言。
         - title: YouZack
           logo: https://api.iowen.cn/favicon/www.youzack.com.png
           url: https://www.youzack.com/
@@ -528,6 +532,10 @@
           logo: https://api.iowen.cn/favicon/treadlightlyretireearly.com.png
           url: https://treadlightlyretireearly.com/2018/01/18/meet-the-women-of-the-financial-independence-movement/
           description: 女性 fire 博主
+        - title: quant-wiki.com
+          logo: https://api.iowen.cn/favicon/quant-wiki.com.png
+          url: https://quant-wiki.com/
+          description: 开源的中文量化百科。在这里，大家可以学习量化交易的核心知识、常用模型、算法设计，以及交易中的实战策略。我们为大家准备了丰富的资料，包括因子模型、事件驱动策略、执行成本优化等内容，帮助大家快速掌握量化投资领域的核心技能，迈向专业化道路。
         - title: 提前退休
           logo: https://api.iowen.cn/favicon/www.madfientist.com.png
           url: https://www.madfientist.com/retire-early-with-kids/
@@ -1168,6 +1176,10 @@
           logo: https://api.iowen.cn/favicon/moises.ai.png
           url: https://moises.ai/zh/
           description: 音乐人应用 | 人声消除器，不止于此
+        - title: 国际乐谱库
+          logo: https://api.iowen.cn/favicon/imslp.org.png
+          url: https://imslp.org/
+          description: 分享世界上处于公有领域的音乐。241,124件作品 · 28,581位作曲家 · 2,045名演奏者 · 792,958份乐谱 · 14,794,275+个页面 · 88,474个录音。
         - title: 英语台词社
           logo: https://api.iowen.cn/favicon/taicishe.com.png
           url: http://taicishe.com/
@@ -2634,6 +2646,10 @@
           logo: https://api.iowen.cn/favicon/loadership.com.png  
           url: https://www.loadership.com  
           description: 该网站可以定制纯 CSS 的页面加载动画（loader）。
+        - title: Flexbox-Labs
+          logo: https://api.iowen.cn/favicon/flexboxlabs.netlify.app.png
+          url: https://github.com/prazzon/flexbox-labs
+          description: 一个可视化工具，可帮助您使用 CSS Flexbox 创建布局。它提供了一个直观的界面，可以实时显示更改，从而轻松进行实验和学习。
         - title: Tailbits
           logo: https://api.iowen.cn/favicon/www.tailbits.com.png
           url: https://www.tailbits.com/components/free
@@ -3917,6 +3933,10 @@
           logo: https://api.iowen.cn/favicon/www.bbkz.com.png  
           url: https://www.bbkz.com/forum/ 
           description:  台湾的一个以旅游资讯分享为基础的网络论坛。
+        - title: 环岛季
+          logo: https://api.iowen.cn/favicon/issuu.com.png
+          url: https://issuu.com/skyy_yang/docs/_mag
+          description: 台湾环岛小册子。
         - title: Immich
           logo: https://api.iowen.cn/favicon/immich.app.png
           url: https://immich.app/
